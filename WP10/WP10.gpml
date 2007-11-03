@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="IL-9 Signaling Pathway" Data-Source="WikiPathways" Version="WP10_r6465" Author="A.Pandey | " Organism="Mus musculus">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="IL-9 Signaling Pathway" Data-Source="WikiPathways" Version="WP10_r7260" Author="A.Pandey | MaintBot | " Organism="Mus musculus">
   <Comment Source="GenMAPP notes">NetPath_20 - IL-9 Signaling Pathway&#xD;
 NetPath (http://www.netpath.org) is a collaborative project between PandeyLab at Johns Hopkins University (http://pandeylab.igm.jhmi.edu) and the Institute of Bioinformatics (http://www.ibioinformatics.org).  If you use this pathway, you must cite the NetPath website until the pathway is published.</Comment>
   <Comment Source="GenMAPP remarks">http://www.netpath.org</Comment>
+  <Comment Source="WikiPathways-category">Cellular_Process</Comment>
   <Graphics BoardWidth="980.8333333333333" BoardHeight="1343.423" />
   <DataNode TextLabel="Irs2" GraphId="ac7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Irs2 | insulin receptor substrate 2" />
