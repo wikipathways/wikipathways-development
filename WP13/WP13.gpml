@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r12692" Author="Kdahlquist | MaintBot | " Maintainer="GenMAPP.org" Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r19420" Author="Kdahlquist | MaintBot | D.Koren | " Maintainer="GenMAPP.org" Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes">http://www.genomeknowledge.org/cgi-bin/eventbrowser?DB=gk_current&amp;ID=69306</Comment>
   <Comment Source="GenMAPP remarks">Based on www.genomeknowledge.org</Comment>
-  <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="2081.7937333333334" BoardHeight="1250.0" />
   <DataNode TextLabel="CDC46" GraphId="a21" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC46 | Component of the hexameric MCM complex..." />
@@ -18,10 +17,6 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRI2 | Subunit of DNA primase which is requir..." />
     <Graphics CenterX="1080.0" CenterY="493.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="853821" />
-  </DataNode>
-  <DataNode TextLabel="ATP" GraphId="a5e">
-    <Graphics CenterX="433.3333333333333" CenterY="780.0" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="RFA2" GraphId="a92" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFA2 | Subunit of heterotrimeric Replication F..." />
@@ -98,18 +93,10 @@
     <Graphics CenterX="763.3333333333334" CenterY="450.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="851266" />
   </DataNode>
-  <DataNode TextLabel="dGTP" GraphId="cb3">
-    <Graphics CenterX="616.6666666666666" CenterY="643.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="2564-35-4" />
-  </DataNode>
   <DataNode TextLabel="ASK" GraphId="cbc" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASK | activator of S phase kinase" />
     <Graphics CenterX="190.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
-  </DataNode>
-  <DataNode TextLabel="ATP" GraphId="d08">
-    <Graphics CenterX="833.3333333333334" CenterY="1026.6666666666667" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="CDC6" GraphId="d10" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC6 | CDC6 cell division cycle 6 homolog (S. c..." />
@@ -121,18 +108,10 @@
     <Graphics CenterX="190.0" CenterY="356.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="851545" />
   </DataNode>
-  <DataNode TextLabel="dATP" GraphId="d38">
-    <Graphics CenterX="616.6666666666666" CenterY="683.3333333333334" Width="47.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="1927-31-7" />
-  </DataNode>
   <DataNode TextLabel="RFC4" GraphId="d60" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC4 | Subunit of heteropentameric Replication..." />
     <Graphics CenterX="393.3333333333333" CenterY="1016.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="854059" />
-  </DataNode>
-  <DataNode TextLabel="ATP" GraphId="d8b">
-    <Graphics CenterX="233.33333333333334" CenterY="866.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="RPA4" GraphId="da0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPA4 | replication protein A4 34kDa" />
@@ -163,10 +142,6 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC5L | origin recognition complex subunit 5-l..." />
     <Graphics CenterX="266.6666666666667" CenterY="196.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
-  </DataNode>
-  <DataNode TextLabel="ADP" GraphId="e0e">
-    <Graphics CenterX="496.6666666666667" CenterY="780.0" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="58-64-0" />
   </DataNode>
   <DataNode TextLabel="UBI4" GraphId="e23" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="UBI4 | Ubiquitin becomes conjugated to protei..." />
@@ -208,18 +183,10 @@
     <Graphics CenterX="1006.6666666666666" CenterY="493.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="855621" />
   </DataNode>
-  <DataNode TextLabel="ATP" GraphId="f08">
-    <Graphics CenterX="436.6666666666667" CenterY="696.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="1927-31-7" />
-  </DataNode>
   <DataNode TextLabel="RFC3" GraphId="f1f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC3 | Subunit of heteropentameric Replication..." />
     <Graphics CenterX="393.3333333333333" CenterY="956.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="855426" />
-  </DataNode>
-  <DataNode TextLabel="ADP" GraphId="f23">
-    <Graphics CenterX="376.6666666666667" CenterY="776.6666666666666" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="58-64-0" />
   </DataNode>
   <DataNode TextLabel="GMNN" GraphId="f33" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GMNN | geminin DNA replication inhibitor" />
@@ -236,10 +203,6 @@
     <Graphics CenterX="1510.0" CenterY="320.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852673" />
   </DataNode>
-  <DataNode TextLabel="GTP" GraphId="f60">
-    <Graphics CenterX="436.6666666666667" CenterY="656.6666666666666" Width="38.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="2564-35-4" />
-  </DataNode>
   <DataNode TextLabel="CDT1" GraphId="f61" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDT1 | DNA replication factor" />
     <Graphics CenterX="1230.0" CenterY="286.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -249,10 +212,6 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC2 | Subunit of the origin recognition compl..." />
     <Graphics CenterX="120.0" CenterY="130.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852352" />
-  </DataNode>
-  <DataNode TextLabel="dCTP" GraphId="fec">
-    <Graphics CenterX="616.6666666666666" CenterY="623.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="2056-98-6" />
   </DataNode>
   <Interaction GraphId="id102de2e3">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -680,6 +639,9 @@
   <Label TextLabel="RFC Heteropentamer:RNA primer-DNA primer" GraphId="a32">
     <Graphics CenterX="650.0" CenterY="1090.0" Width="353.3333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="ATP" GraphId="a5e">
+    <Graphics CenterX="433.3333333333333" CenterY="780.0" Width="37.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
   <Label TextLabel="Orc complex" GraphId="a62">
     <Graphics CenterX="983.3333333333334" CenterY="180.0" Width="101.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -795,6 +757,9 @@
     <Comment Source="GenMAPP remarks">aided by DDK</Comment>
     <Graphics CenterX="480.0" CenterY="403.3333333333333" Width="287.3333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="dGTP" GraphId="cb3">
+    <Graphics CenterX="616.6666666666666" CenterY="643.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
   <Label TextLabel="Processive complex" GraphId="ccc">
     <Graphics CenterX="1903.3333333333333" CenterY="1090.0" Width="159.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -807,14 +772,23 @@
   <Label TextLabel="Cdt1" GraphId="d02">
     <Graphics CenterX="1283.3333333333333" CenterY="216.66666666666666" Width="41.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="ATP" GraphId="d08">
+    <Graphics CenterX="833.3333333333334" CenterY="1026.6666666666667" Width="37.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
   <Label TextLabel="Degraded by proteasome in cytosol" GraphId="d37">
     <Graphics CenterX="1196.6666666666667" CenterY="763.3333333333334" Width="276.3333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="dATP" GraphId="d38">
+    <Graphics CenterX="616.6666666666666" CenterY="683.3333333333334" Width="47.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Orc5" GraphId="d4d">
     <Graphics CenterX="360.0" CenterY="186.66666666666666" Width="41.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Orc complex" GraphId="d6f">
     <Graphics CenterX="1396.6666666666667" CenterY="156.66666666666666" Width="101.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="ATP" GraphId="d8b">
+    <Graphics CenterX="233.33333333333334" CenterY="866.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Mcm7" GraphId="d9a">
     <Graphics CenterX="1703.3333333333333" CenterY="283.3333333333333" Width="50.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -824,6 +798,9 @@
   </Label>
   <Label TextLabel="Mcm6" GraphId="def">
     <Graphics CenterX="1703.3333333333333" CenterY="266.6666666666667" Width="50.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="ADP" GraphId="e0e">
+    <Graphics CenterX="496.6666666666667" CenterY="780.0" Width="39.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Cdc6" GraphId="e10">
     <Graphics CenterX="1396.6666666666667" CenterY="183.33333333333334" Width="45.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -882,6 +859,9 @@
   <Label TextLabel="Mcm6" GraphId="f01">
     <Graphics CenterX="1953.3333333333333" CenterY="263.3333333333333" Width="50.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="ATP" GraphId="f08">
+    <Graphics CenterX="436.6666666666667" CenterY="696.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
   <Label TextLabel="RFC38" GraphId="f0e">
     <Graphics CenterX="1353.3333333333333" CenterY="1003.3333333333334" Width="57.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -891,8 +871,14 @@
   <Label TextLabel="Cdc6" GraphId="f18">
     <Graphics CenterX="1953.3333333333333" CenterY="163.33333333333334" Width="45.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Label TextLabel="ADP" GraphId="f23">
+    <Graphics CenterX="376.6666666666667" CenterY="776.6666666666666" Width="39.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
   <Label TextLabel="UTP" GraphId="f3e">
     <Graphics CenterX="436.6666666666667" CenterY="676.6666666666666" Width="38.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="GTP" GraphId="f60">
+    <Graphics CenterX="436.6666666666667" CenterY="656.6666666666666" Width="38.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="RNA primer-DNA primer" GraphId="f67">
     <Graphics CenterX="796.6666666666666" CenterY="573.3333333333334" Width="186.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -926,6 +912,9 @@
   </Label>
   <Label TextLabel="p58" GraphId="feb">
     <Graphics CenterX="426.6666666666667" CenterY="1170.0" Width="33.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="dCTP" GraphId="fec">
+    <Graphics CenterX="616.6666666666666" CenterY="623.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Mcm4" GraphId="fef">
     <Graphics CenterX="1953.3333333333333" CenterY="230.0" Width="50.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
