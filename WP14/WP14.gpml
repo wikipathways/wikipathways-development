@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sucrose Biosynthesis" Data-Source="WikiPathways" Version="WP14_r8931" Author="M.Braymer | " Maintainer="Kam Dahlquist" Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sucrose Biosynthesis" Data-Source="WikiPathways" Version="WP14_r8933" Author="M.Braymer | MaintBot | " Maintainer="Kam Dahlquist" Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes"></Comment>
   <Comment Source="GenMAPP remarks">Based on http://pathway.yeastgenome.org/biocyc/</Comment>
+  <Comment Source="WikiPathways-category">Metabolic Process</Comment>
   <Graphics BoardWidth="877.5000000000001" BoardHeight="766.6666666666667" />
   <DataNode TextLabel="YHL012W" GraphId="d12" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="YHL012W" />
