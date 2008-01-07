@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r8538" Author="Kdahlquist | " Maintainer="GenMAPP.org" Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r8540" Author="Kdahlquist | MaintBot | " Maintainer="GenMAPP.org" Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes">http://www.genomeknowledge.org/cgi-bin/eventbrowser?DB=gk_current&amp;ID=69306</Comment>
   <Comment Source="GenMAPP remarks">Based on www.genomeknowledge.org</Comment>
+  <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="2081.7937333333334" BoardHeight="1250.0" />
   <DataNode TextLabel="CDC46" GraphId="a21" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC46 | Component of the hexameric MCM complex..." />
