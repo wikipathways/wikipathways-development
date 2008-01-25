@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r10391" Author="Ehsiao | AlexanderPico | ">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r10392" Author="Ehsiao | AlexanderPico | ">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="906.0" BoardHeight="542.0333333333333" />
   <DataNode TextLabel="H+" GraphId="acd" Type="Metabolite">
@@ -50,9 +50,9 @@
     <Graphics CenterX="394.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="PubChem" ID="271" />
   </DataNode>
-  <DataNode TextLabel="Na+/H+ transporter" GraphId="ea3">
+  <DataNode TextLabel="Na+/H+ transporter" GraphId="ea3" Type="Protein">
     <Graphics CenterX="246.5" CenterY="318.0" Width="117.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="6548" />
   </DataNode>
   <DataNode TextLabel="H+ ATPase" GraphId="edf" Type="Protein">
     <Graphics CenterX="568.0" CenterY="317.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
