@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r10358" Author="Ehsiao | AlexanderPico | ">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r10390" Author="Ehsiao | AlexanderPico | ">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="906.0" BoardHeight="542.0333333333333" />
-  <DataNode TextLabel="Osteoclast activation" GraphId="ac9">
-    <Graphics CenterX="380.0" CenterY="201.0" Width="128.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
-  </DataNode>
-  <DataNode TextLabel="H+" GraphId="acd">
+  <DataNode TextLabel="H+" GraphId="acd" Type="Metabolite">
     <Graphics CenterX="186.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="PubChem" ID="5362549" />
   </DataNode>
   <DataNode TextLabel="OPG" GraphId="b5e">
     <Graphics CenterX="836.0" CenterY="192.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4982" />
   </DataNode>
-  <DataNode TextLabel="Pi" GraphId="c0f">
+  <DataNode TextLabel="Pi" GraphId="c0f" Type="Metabolite">
     <Graphics CenterX="308.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="PubChem" ID="1004" />
   </DataNode>
   <DataNode TextLabel="PDGF-BB" GraphId="c12">
     <Graphics CenterX="603.0" CenterY="102.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="TRPV" GraphId="c3d">
+  <DataNode TextLabel="TRPV" GraphId="c3d" Type="Protein">
     <Graphics CenterX="127.5" CenterY="317.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="56302" />
   </DataNode>
@@ -34,25 +30,25 @@
     <Graphics CenterX="567.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="H+" GraphId="cf3">
+  <DataNode TextLabel="H+" GraphId="cf3" Type="Metabolite">
     <Graphics CenterX="271.0" CenterY="66.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="PubChem" ID="5362549" />
   </DataNode>
-  <DataNode TextLabel="TRAP" GraphId="d2e">
+  <DataNode TextLabel="TRAP" GraphId="d2e" Type="Protein">
     <Graphics CenterX="481.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="54" />
   </DataNode>
-  <DataNode TextLabel="IFN-b" GraphId="e2f">
+  <DataNode TextLabel="IFN-b" GraphId="e2f" Type="Protein">
     <Graphics CenterX="90.0" CenterY="113.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3456" />
   </DataNode>
-  <DataNode TextLabel="Ca2+" GraphId="e45">
-    <Graphics CenterX="156.0" CenterY="246.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+  <DataNode TextLabel="Ca2+" GraphId="e45" Type="Metabolite">
+    <Graphics CenterX="156.0" CenterY="247.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="PubChem" ID="271" />
   </DataNode>
-  <DataNode TextLabel="Ca2+" GraphId="e85">
+  <DataNode TextLabel="Ca2+" GraphId="e85" Type="Metabolite">
     <Graphics CenterX="394.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="PubChem" ID="271" />
   </DataNode>
   <DataNode TextLabel="Na+/H+ transporter" GraphId="ea3">
     <Graphics CenterX="246.5" CenterY="318.0" Width="117.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -62,15 +58,15 @@
     <Graphics CenterX="568.0" CenterY="317.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="9550" />
   </DataNode>
-  <DataNode TextLabel="Na+" GraphId="ef6">
+  <DataNode TextLabel="Na+" GraphId="ef6" Type="Metabolite">
     <Graphics CenterX="297.0" CenterY="247.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="PubChem" ID="923" />
   </DataNode>
   <DataNode TextLabel="RANK" GraphId="f00">
     <Graphics CenterX="689.0" CenterY="225.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8792" />
   </DataNode>
-  <DataNode TextLabel="Type 1 interferon receptor" GraphId="f27">
+  <DataNode TextLabel="Type 1 interferon receptor" GraphId="f27" Type="Protein">
     <Graphics CenterX="172.5" CenterY="182.0" Width="164.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3454" />
   </DataNode>
@@ -82,7 +78,7 @@
     <Graphics CenterX="653.0" CenterY="367.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1513" />
   </DataNode>
-  <DataNode TextLabel="OGR1" GraphId="fbe">
+  <DataNode TextLabel="OGR1" GraphId="fbe" Type="Protein">
     <Graphics CenterX="320.0" CenterY="133.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8111" />
   </DataNode>
@@ -118,10 +114,10 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id70e777df">
+  <Interaction GraphId="id58ebd122">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="324.0" Y="132.0" GraphRef="fbe" RelX="0.1" RelY="-0.1" />
-      <Point X="382.0" Y="187.0" GraphRef="ac9" RelX="0.03125" RelY="-1.4" ArrowHead="Arrow" />
+      <Point X="381.0" Y="188.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -160,6 +156,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="iddd701966">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="112.0" Y="341.0" />
+      <Point X="151.0" Y="262.0" GraphRef="e45" RelX="-0.125" RelY="1.5" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idedc45f85">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="255.0" Y="340.0" />
@@ -167,13 +170,9 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="idfb924fc7">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="112.0" Y="341.0" />
-      <Point X="151.0" Y="261.0" GraphRef="e45" RelX="-0.125" RelY="1.5" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
+  <Label TextLabel="Osteoclast activation" GraphId="bdf">
+    <Graphics CenterX="413.5" CenterY="197.0" Width="107.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" Color="0000cc" />
+  </Label>
   <Label TextLabel="Osteoclast" GraphId="c7c">
     <Graphics CenterX="445.96666666666664" CenterY="140.03333333333333" Width="84.06666666666666" Height="19.933333333333334" ZOrder="28672" FillColor="ffffff" FontSize="13" Valign="Middle" />
   </Label>
