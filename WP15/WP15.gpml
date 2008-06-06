@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15888" Author="Egoyenechea | " Organism="Homo sapiens">
+  <Graphics BoardWidth="1110.0" BoardHeight="524.0" />
+  <DataNode TextLabel="Selenium" GraphId="d90d4" Type="Metabolite">
+    <Graphics CenterX="545.15" CenterY="166.15" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <Label TextLabel="PLASMA" GraphId="b42fd">
+    <Graphics CenterX="44.0" CenterY="484.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+  </Label>
+  <Shape GraphId="ba3d8">
+    <Graphics CenterX="559.3166666666667" CenterY="464.65" Width="1041.3666666666666" Height="1.3" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Arc" Rotation="0.0" />
+  </Shape>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>
+
