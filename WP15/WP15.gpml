@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15888" Author="Egoyenechea | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15892" Author="Egoyenechea | " Organism="Homo sapiens">
   <Graphics BoardWidth="1110.0" BoardHeight="524.0" />
-  <DataNode TextLabel="Selenium" GraphId="d90d4" Type="Metabolite">
-    <Graphics CenterX="545.15" CenterY="166.15" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+  <DataNode TextLabel="GPX 1,2,3,4 &amp; 6" GraphId="d15a3" Type="Metabolite">
+    <Graphics CenterX="511.5" CenterY="165.65" Width="87.0" Height="14.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="Selenium" GraphId="d90d4" Type="Metabolite">
+    <Graphics CenterX="675.15" CenterY="166.15" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="SelK" GraphId="e1ac2" Type="Metabolite">
+    <Graphics CenterX="777.4833333333333" CenterY="114.15" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <Interaction GraphId="id195663f4">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
+      <Point X="729.0" Y="149.0" />
+      <Point X="757.0" Y="125.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida9eda6f0">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
+      <Point X="621.0" Y="167.0" />
+      <Point X="558.0" Y="167.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Label TextLabel="PLASMA" GraphId="b42fd">
     <Graphics CenterX="44.0" CenterY="484.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
   </Label>
