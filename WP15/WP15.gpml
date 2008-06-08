@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16005" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
-  <Graphics BoardWidth="2235.0" BoardHeight="1429.0000000000002" />
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16007" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
+  <Graphics BoardWidth="2235.0" BoardHeight="1653.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
@@ -109,8 +109,8 @@
     <Graphics CenterX="1588.9833333333333" CenterY="297.98333333333335" Width="86.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene B4" GraphId="b5a46" Type="Metabolite">
-    <Graphics CenterX="561.6666666666666" CenterY="1127.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+  <DataNode TextLabel="MOLECULE" GraphId="b5a46" Type="Metabolite">
+    <Graphics CenterX="209.0" CenterY="1470.65" Width="110.0" Height="42.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Manganese" GraphId="b823a" Type="Metabolite">
@@ -175,6 +175,10 @@
   </DataNode>
   <DataNode TextLabel="Tromboxane A2" GraphId="c15d8" Type="Metabolite">
     <Graphics CenterX="957.5" CenterY="1078.65" Width="83.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="SEPP1" GraphId="c1ab1" Type="Metabolite">
+    <Graphics CenterX="1103.4833333333333" CenterY="1123.4833333333333" Width="35.03333333333333" Height="15.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="00cc33" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGE2" GraphId="c2105" Type="Metabolite">
@@ -303,6 +307,14 @@
   </DataNode>
   <DataNode TextLabel="LOX5" GraphId="d1aeb" Type="Metabolite">
     <Graphics CenterX="1373.8166666666666" CenterY="689.4833333333333" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="GENERIC ENZYME" GraphId="d25f7" Type="Metabolite">
+    <Graphics CenterX="208.31666666666666" CenterY="1542.4833333333333" Width="111.36666666666666" Height="49.03333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Leukotriene B4" GraphId="d29ce" Type="Metabolite">
+    <Graphics CenterX="571.6666666666666" CenterY="1137.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="LeukotrieneE4" GraphId="d309a" Type="Metabolite">
@@ -505,8 +517,8 @@
     <Graphics CenterX="1719.9833333333333" CenterY="673.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Vitamin B12" GraphId="fa645" Type="Metabolite">
-    <Graphics CenterX="182.83333333333334" CenterY="1389.65" Width="61.666666666666664" Height="18.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+  <DataNode TextLabel="INORGANIC ION" GraphId="fa645" Type="Metabolite">
+    <Graphics CenterX="209.0" CenterY="1401.15" Width="114.0" Height="41.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Leukotriene F4" GraphId="fc28b" Type="Metabolite">
@@ -1667,6 +1679,9 @@
   </Label>
   <Label TextLabel="B" GraphId="a89c5">
     <Graphics CenterX="1378.6666666666667" CenterY="401.3333333333333" Width="17.333333333333332" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" />
+  </Label>
+  <Label TextLabel="REACTION" GraphId="add26">
+    <Graphics CenterX="205.83333333333334" CenterY="1611.5" Width="76.33333333333333" Height="23.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
   </Label>
   <Label TextLabel="B" GraphId="af901">
     <Graphics CenterX="1021.3333333333334" CenterY="524.0" Width="17.333333333333332" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" />
