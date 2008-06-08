@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15907" Author="Egoyenechea | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15939" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
   <Graphics BoardWidth="1629.9999999999998" BoardHeight="1271.3333333333333" />
   <DataNode TextLabel="SelR" GraphId="a30c8" Type="Metabolite">
     <Graphics CenterX="738.15" CenterY="650.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
@@ -249,31 +249,17 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id91c177e6" GroupRef="f2978">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1184.0" Y="574.6666666666666" />
-      <Point X="1184.0" Y="310.6666666666667" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id96f3a98d" GroupRef="adef6">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1141.3333333333333" Y="574.6666666666666" />
-      <Point X="1141.3333333333333" Y="376.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id9a8cb922" GroupRef="f2978">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="938.6666666666666" Y="576.0" />
-      <Point X="1184.0" Y="576.0" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id9fb5d5df">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
       <Point X="721.3333333333334" Y="536.0" />
       <Point X="762.6666666666666" Y="618.6666666666666" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida569842f">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="938.6666666666667" Y="575.9833333333333" GraphRef="dff48" RelX="1.0" RelY="0.0" />
+      <Point X="1182.4916666666668" Y="308.6666666666667" GraphRef="b5869" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -337,6 +323,13 @@
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="673.3333333333334" Y="542.6666666666666" />
       <Point X="673.3333333333334" Y="1050.6666666666667" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idf4a88f4c">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="938.6666666666667" Y="575.9833333333333" GraphRef="dff48" RelX="1.0" RelY="0.0" />
+      <Point X="1133.3333333333333" Y="372.33333333333326" GraphRef="e69a8" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -409,10 +402,8 @@
   <Shape GraphId="ba3d8">
     <Graphics CenterX="842.6666666666666" CenterY="1002.6666666666666" Width="1477.3333333333333" Height="0.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Arc" Rotation="0.0" />
   </Shape>
-  <Group GroupId="b03c8" TextLabel="new group" />
-  <Group GroupId="a99d5" TextLabel="new group" />
-  <Group GroupId="adef6" TextLabel="new group" />
-  <Group GroupId="f2978" GraphId="f2dfa" TextLabel="new group" GroupRef="adef6" />
+  <Group GroupId="a99d5" GraphId="b3a2a" TextLabel="new group" />
+  <Group GroupId="b03c8" GraphId="ba4d1" TextLabel="new group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax />
 </Pathway>
