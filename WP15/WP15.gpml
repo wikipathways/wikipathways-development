@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16007" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
-  <Graphics BoardWidth="2235.0" BoardHeight="1653.0" />
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16009" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
+  <Graphics BoardWidth="2235.0" BoardHeight="1694.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
@@ -27,6 +27,10 @@
   </DataNode>
   <DataNode TextLabel="PGDS" GraphId="a69f2" Type="Metabolite">
     <Graphics CenterX="1355.4833333333333" CenterY="890.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="B" GraphId="a6d3d" Type="Metabolite">
+    <Graphics CenterX="415.5" CenterY="1460.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="d5 desaturase" GraphId="a7418" Type="Metabolite">
@@ -177,8 +181,8 @@
     <Graphics CenterX="957.5" CenterY="1078.65" Width="83.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="SEPP1" GraphId="c1ab1" Type="Metabolite">
-    <Graphics CenterX="1103.4833333333333" CenterY="1123.4833333333333" Width="35.03333333333333" Height="15.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="00cc33" />
+  <DataNode TextLabel="GENERIC BINDING PROTEIN" GraphId="c1ab1" Type="Metabolite">
+    <Graphics CenterX="205.5" CenterY="1654.9833333333333" Width="157.0" Height="18.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="00cc33" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGE2" GraphId="c2105" Type="Metabolite">
@@ -473,8 +477,16 @@
     <Graphics CenterX="1267.15" CenterY="391.15" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="T" GraphId="f22cb" Type="Metabolite">
+    <Graphics CenterX="415.5" CenterY="1488.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="LeukotrieneE4" GraphId="f2e8b" Type="Metabolite">
     <Graphics CenterX="693.6666666666666" CenterY="827.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="IE" GraphId="f37a4" Type="Metabolite">
+    <Graphics CenterX="415.5" CenterY="1522.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGI2" GraphId="f37b0" Type="Metabolite">
@@ -1116,6 +1128,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id86b26f27">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="385.0" Y="1556.5" />
+      <Point X="456.0" Y="1556.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id8b637e6">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
       <Point X="586.6666666666667" Y="495.30000000000007" GraphRef="c5513" RelX="0.0" RelY="-1.0" />
@@ -1253,6 +1272,13 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="818.8333333333334" Y="585.0" GraphRef="ccbaf" RelX="-0.5" RelY="1.0" />
       <Point X="758.3333333333335" Y="683.0" GraphRef="a6ac3" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idac868db2">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
+      <Point X="386.0" Y="1394.0" />
+      <Point X="459.6666666666667" Y="1394.6666666666667" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1515,6 +1541,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="ide1f585a9">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff9900">
+      <Point X="385.0" Y="1431.0" />
+      <Point X="460.0" Y="1431.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="ide2068ee7">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="1148.6333333333334" Y="874.15" GraphRef="b4c7a" RelX="-1.0" RelY="0.0" />
@@ -1721,6 +1754,12 @@
   </Label>
   <Label TextLabel="T" GraphId="de1c8">
     <Graphics CenterX="1564.3333333333333" CenterY="492.6666666666667" Width="17.333333333333332" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" />
+  </Label>
+  <Label TextLabel="Negative effect " GraphId="e00ab">
+    <Graphics CenterX="517.0" CenterY="1425.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
+  </Label>
+  <Label TextLabel="Positive effect " GraphId="e1b1e">
+    <Graphics CenterX="516.0" CenterY="1392.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
   </Label>
   <Label TextLabel="B" GraphId="e330d">
     <Graphics CenterX="1164.0" CenterY="565.3333333333334" Width="17.333333333333332" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="RoundedRectangle" />
