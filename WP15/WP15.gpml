@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16017" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16021" Author="Egoyenechea | AlexanderPico | Thomas | " Organism="Homo sapiens">
   <Graphics BoardWidth="2235.0" BoardHeight="1771.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
@@ -339,7 +339,7 @@
   </DataNode>
   <DataNode TextLabel="PNPO" GraphId="d07e8" Type="Metabolite">
     <Graphics CenterX="437.1666666666667" CenterY="421.6666666666667" Width="51.0" Height="16.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="55163" />
   </DataNode>
   <DataNode TextLabel="Copper" GraphId="d0a67" Type="Metabolite">
     <Graphics CenterX="1481.0" CenterY="499.8333333333333" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -515,7 +515,7 @@
   </DataNode>
   <DataNode TextLabel="Methionine sulfoxide" GraphId="eb4d2" Type="Metabolite">
     <Graphics CenterX="225.0" CenterY="333.5" Width="110.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
-    <Xref Database="" ID="" />
+    <Xref Database="HMDB" ID="HMDB02005" />
   </DataNode>
   <DataNode TextLabel="T" GraphId="eb4dd" Type="Metabolite">
     <Graphics CenterX="1305.5" CenterY="665.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
