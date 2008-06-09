@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15985" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r15987" Author="Egoyenechea | AlexanderPico | " Organism="Homo sapiens">
   <Graphics BoardWidth="2046.0" BoardHeight="1274.0" />
+  <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
+    <Graphics CenterX="684.0" CenterY="688.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="SelR" GraphId="a30c8" Type="Metabolite">
     <Graphics CenterX="922.15" CenterY="650.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="NAD(P)" GraphId="a490d" Type="Metabolite">
     <Graphics CenterX="418.1666666666667" CenterY="546.15" Width="50.333333333333336" Height="15.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Leukotriene D4" GraphId="a4bf1" Type="Metabolite">
+    <Graphics CenterX="440.6666666666667" CenterY="782.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGDS" GraphId="a69f2" Type="Metabolite">
@@ -33,6 +41,10 @@
     <Graphics CenterX="1534.0" CenterY="523.0" Width="50.666666666666664" Height="19.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="5-HPETE" GraphId="aa63c" Type="Metabolite">
+    <Graphics CenterX="597.0" CenterY="688.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="EPA (n-3)" GraphId="abea2" Type="Metabolite">
     <Graphics CenterX="1772.0" CenterY="1063.8333333333333" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
@@ -46,7 +58,11 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Xantione oxidase" GraphId="b2d0b" Type="Metabolite">
-    <Graphics CenterX="326.5" CenterY="431.5" Width="87.0" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Graphics CenterX="356.5" CenterY="423.5" Width="87.0" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Leukotriene B4" GraphId="b3414" Type="Metabolite">
+    <Graphics CenterX="318.6666666666667" CenterY="741.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="THAS" GraphId="b4c7a" Type="Metabolite">
@@ -55,6 +71,10 @@
   </DataNode>
   <DataNode TextLabel="Zinc" GraphId="b4fde" Type="Metabolite">
     <Graphics CenterX="1235.0" CenterY="455.1666666666667" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="PGF2a" GraphId="b5552" Type="Metabolite">
+    <Graphics CenterX="776.5" CenterY="893.15" Width="53.0" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Lipoic acid" GraphId="b5869" Type="Metabolite">
@@ -86,7 +106,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Uric Acid" GraphId="bb6cf" Type="Metabolite">
-    <Graphics CenterX="329.0" CenterY="265.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Graphics CenterX="387.0" CenterY="290.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Ascorbic acid" GraphId="bd008" Type="Metabolite">
@@ -97,8 +117,20 @@
     <Graphics CenterX="980.65" CenterY="-46.016666666666666" Width="69.36666666666666" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="Pyrodoxal 5" GraphId="be853" Type="Metabolite">
+    <Graphics CenterX="196.31666666666666" CenterY="310.98333333333335" Width="57.36666666666667" Height="20.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="PGE3" GraphId="bff18" Type="Metabolite">
     <Graphics CenterX="1783.3166666666666" CenterY="674.65" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Leukotriene A4" GraphId="c210c" Type="Metabolite">
+    <Graphics CenterX="390.6666666666667" CenterY="701.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Leukotriene C4" GraphId="c3688" Type="Metabolite">
+    <Graphics CenterX="439.6666666666667" CenterY="741.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="EPA (n-3)" GraphId="c3c7f" Type="Metabolite">
@@ -111,6 +143,10 @@
   </DataNode>
   <DataNode TextLabel="Catalase" GraphId="c5781" Type="Metabolite">
     <Graphics CenterX="720.3333333333334" CenterY="599.4833333333333" Width="54.666666666666664" Height="17.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Tromboxane A2" GraphId="c5e29" Type="Metabolite">
+    <Graphics CenterX="733.5" CenterY="785.65" Width="83.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Iron" GraphId="c74a3" Type="Metabolite">
@@ -127,6 +163,10 @@
   </DataNode>
   <DataNode TextLabel="NAD(P)H" GraphId="c93fa" Type="Metabolite">
     <Graphics CenterX="495.5" CenterY="545.65" Width="51.0" Height="14.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Lipoxin A4" GraphId="ca55b" Type="Metabolite">
+    <Graphics CenterX="577.0" CenterY="747.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Endoperoxidase" GraphId="cb2ab" Type="Metabolite">
@@ -174,7 +214,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Xanthine" GraphId="d34c3" Type="Metabolite">
-    <Graphics CenterX="379.0" CenterY="322.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Graphics CenterX="439.0" CenterY="345.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGIS" GraphId="d40f1" Type="Metabolite">
@@ -209,6 +249,10 @@
     <Graphics CenterX="437.1666666666667" CenterY="585.65" Width="46.333333333333336" Height="14.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="Tromboxane B2" GraphId="da75e" Type="Metabolite">
+    <Graphics CenterX="732.5" CenterY="829.65" Width="83.0" Height="18.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="H202" GraphId="da89b" Type="Metabolite">
     <Graphics CenterX="732.6666666666666" CenterY="417.31666666666666" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
@@ -221,6 +265,10 @@
     <Graphics CenterX="1087.9833333333333" CenterY="575.9833333333333" Width="69.36666666666666" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="Lipoxin B4" GraphId="e0252" Type="Metabolite">
+    <Graphics CenterX="680.0" CenterY="747.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="Selenium" GraphId="e1337" Type="Metabolite">
     <Graphics CenterX="856.8166666666667" CenterY="1065.8166666666666" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ZFIN" ID="" />
@@ -230,11 +278,11 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Tryptophan" GraphId="e1d40" Type="Metabolite">
-    <Graphics CenterX="319.6666666666667" CenterY="637.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Graphics CenterX="319.6666666666667" CenterY="638.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Niacin" GraphId="e42ba" Type="Metabolite">
-    <Graphics CenterX="457.31666666666666" CenterY="638.9833333333333" Width="57.36666666666667" Height="20.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="457.31666666666666" CenterY="639.9833333333333" Width="57.36666666666667" Height="20.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="DHA (n-3)" GraphId="e4414" Type="Metabolite">
@@ -258,7 +306,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Hypoxanthine oxidase" GraphId="ee224" Type="Metabolite">
-    <Graphics CenterX="234.0" CenterY="321.5" Width="110.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Graphics CenterX="299.0" CenterY="342.5" Width="110.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="LA (n-6)" GraphId="f0453" Type="Metabolite">
@@ -267,6 +315,10 @@
   </DataNode>
   <DataNode TextLabel="SOD" GraphId="f0fc5" Type="Metabolite">
     <Graphics CenterX="1023.15" CenterY="391.15" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="LeukotrieneE4" GraphId="f2e8b" Type="Metabolite">
+    <Graphics CenterX="440.6666666666667" CenterY="827.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGI2" GraphId="f37b0" Type="Metabolite">
@@ -299,6 +351,10 @@
   </DataNode>
   <DataNode TextLabel="PGG2" GraphId="fa2b7" Type="Metabolite">
     <Graphics CenterX="1475.9833333333333" CenterY="673.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Leukotriene F4" GraphId="fc28b" Type="Metabolite">
+    <Graphics CenterX="440.6666666666667" CenterY="878.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="AA (n-6)" GraphId="fc7f0" Type="Metabolite">
