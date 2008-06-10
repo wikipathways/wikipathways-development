@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16047" Author="Egoyenechea | AlexanderPico | Thomas | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16050" Author="Egoyenechea | AlexanderPico | Thomas | " Organism="Homo sapiens">
   <Graphics BoardWidth="2235.0" BoardHeight="1771.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
@@ -307,6 +307,10 @@
   </DataNode>
   <DataNode TextLabel="Glutathione" GraphId="ccbaf" Type="Metabolite">
     <Graphics CenterX="836.6666666666666" CenterY="574.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="B" GraphId="ccd3d" Type="Metabolite">
+    <Graphics CenterX="1462.5" CenterY="712.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGD2" GraphId="cdfde" Type="Metabolite">
@@ -672,6 +676,13 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="997.3333333333334" Y="933.3333333333334" />
       <Point X="997.3333333333334" Y="1029.3333333333333" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1322c310">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
+      <Point X="2086.65" Y="388.65" />
+      <Point X="1168.15" Y="865.3" GraphRef="b4c7a" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1148,13 +1159,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="909.0" Y="721.0" />
       <Point X="909.0" Y="1115.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id67949b4c">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
-      <Point X="2093.991666666667" Y="379.3333333333333" GraphRef="f7e74" RelX="0.5" RelY="1.0" />
-      <Point X="1365.2416666666668" Y="881.9666666666667" GraphRef="a69f2" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1645,6 +1649,13 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="1260.0" Y="806.6666666666666" />
       <Point X="1260.0" Y="1102.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd5a84858">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
+      <Point X="2059.3083333333334" Y="379.3333333333333" GraphRef="f7e74" RelX="-0.5" RelY="1.0" />
+      <Point X="1365.2416666666668" Y="881.9666666666667" GraphRef="a69f2" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
