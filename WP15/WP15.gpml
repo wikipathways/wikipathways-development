@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16146" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16148" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
   <Graphics BoardWidth="2235.0" BoardHeight="1771.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
@@ -1869,26 +1869,14 @@
   <Label TextLabel="Unspecified interactions " GraphId="bb054" GroupRef="b5a37">
     <Graphics CenterX="654.0" CenterY="1591.5" Width="130.0" Height="23.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
   </Label>
-  <Label TextLabel="A" GraphId="bc37a">
-    <Graphics CenterX="570.6666666666666" CenterY="682.6666666666666" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" />
-  </Label>
   <Label TextLabel="" GraphId="be0fb">
     <Graphics CenterX="1603.8333333333333" CenterY="616.0" Width="20.333333333333332" Height="12.0" ZOrder="28672" FillColor="ffffff" FontSize="13" Valign="Middle" ShapeType="Rectangle" />
-  </Label>
-  <Label TextLabel="B" GraphId="c14ea">
-    <Graphics CenterX="1270.6666666666667" CenterY="257.3333333333333" Width="80.0" Height="22.666666666666668" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" />
   </Label>
   <Label TextLabel="" GraphId="cbc93">
     <Graphics CenterX="341.1666666666667" CenterY="677.0" Width="20.333333333333332" Height="12.0" ZOrder="28672" FillColor="ffffff" FontSize="13" Valign="Middle" ShapeType="Rectangle" />
   </Label>
-  <Label TextLabel="D" GraphId="d2047">
-    <Graphics CenterX="1704.6666666666667" CenterY="470.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" />
-  </Label>
   <Label TextLabel="Binding" GraphId="d7cc5" GroupRef="b5a37">
     <Graphics CenterX="614.0" CenterY="1459.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
-  </Label>
-  <Label TextLabel="F" GraphId="df867">
-    <Graphics CenterX="136.66666666666666" CenterY="541.3333333333334" Width="80.0" Height="38.666666666666664" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" />
   </Label>
   <Label TextLabel="Negative effect " GraphId="e00ab" GroupRef="b5a37">
     <Graphics CenterX="633.0" CenterY="1425.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
@@ -1896,41 +1884,17 @@
   <Label TextLabel="Positive effect " GraphId="e1b1e" GroupRef="b5a37">
     <Graphics CenterX="634.0" CenterY="1392.0" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
   </Label>
-  <Label TextLabel="C" GraphId="e5d55">
-    <Graphics CenterX="1096.6666666666667" CenterY="466.6666666666667" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" />
-  </Label>
-  <Label TextLabel="E" GraphId="eb7f3">
-    <Graphics CenterX="318.6666666666667" CenterY="398.6666666666667" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" />
-  </Label>
   <Label TextLabel="" GraphId="f17cd">
     <Graphics CenterX="660.8333333333334" CenterY="640.0" Width="20.333333333333332" Height="12.0" ZOrder="28672" FillColor="ffffff" FontSize="13" Valign="Middle" ShapeType="Rectangle" />
   </Label>
-  <Shape GraphId="a05bf">
-    <Graphics CenterX="326.98333333333335" CenterY="612.9833333333333" Width="418.03333333333336" Height="166.03333333333333" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
-  </Shape>
   <Shape GraphId="a20a0" GroupRef="b5a37">
     <Graphics CenterX="492.98333333333335" CenterY="1515.9833333333333" Width="590.0333333333333" Height="450.03333333333336" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
-  </Shape>
-  <Shape GraphId="b3b78">
-    <Graphics CenterX="1893.3166666666666" CenterY="702.65" Width="426.7" Height="522.7" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
-  </Shape>
-  <Shape GraphId="b4a5f">
-    <Graphics CenterX="522.0" CenterY="452.0" Width="480.0" Height="144.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="ba3d8">
     <Graphics CenterX="1167.0" CenterY="1003.0" Width="2076.0" Height="0.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Arc" Rotation="0.0" />
   </Shape>
   <Shape GraphId="bf2e4">
     <Graphics CenterX="1167.0" CenterY="1239.0" Width="2076.0" Height="0.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Arc" Rotation="0.0" />
-  </Shape>
-  <Shape GraphId="c6dd0">
-    <Graphics CenterX="1232.9833333333333" CenterY="588.9833333333333" Width="370.03333333333336" Height="270.03333333333336" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
-  </Shape>
-  <Shape GraphId="c88d1">
-    <Graphics CenterX="780.6666666666666" CenterY="813.6666666666666" Width="521.3333333333334" Height="307.3333333333333" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
-  </Shape>
-  <Shape GraphId="fdf35">
-    <Graphics CenterX="1439.9833333333333" CenterY="377.98333333333335" Width="396.03333333333336" Height="276.03333333333336" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Group GroupId="f3f15" GraphId="b8f53" TextLabel="new group" />
   <Group GroupId="d9f59" GraphId="cca24" TextLabel="new group" />
