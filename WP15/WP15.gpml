@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16190" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16196" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
   <Graphics BoardWidth="2235.0" BoardHeight="1771.0" />
-  <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Metabolite">
+  <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Protein">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -13,7 +13,7 @@
     <Graphics CenterX="1166.15" CenterY="650.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Homocysteine" GraphId="a3abe" Type="Metabolite">
+  <DataNode TextLabel="Homocysteine" GraphId="a3abe" Type="Protein">
     <Graphics CenterX="341.0" CenterY="570.8333333333334" Width="72.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -21,15 +21,15 @@
     <Graphics CenterX="693.1666666666666" CenterY="546.15" Width="50.333333333333336" Height="15.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene D4" GraphId="a4bf1" Type="Metabolite">
+  <DataNode TextLabel="Leukotriene D4" GraphId="a4bf1" Type="Protein">
     <Graphics CenterX="692.6666666666666" CenterY="783.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene C4" GraphId="a5e8e" Type="Metabolite">
+  <DataNode TextLabel="Leukotriene C4" GraphId="a5e8e" Type="Protein">
     <Graphics CenterX="630.6666666666666" CenterY="1064.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGDS" GraphId="a69f2" Type="Metabolite">
+  <DataNode TextLabel="PGDS" GraphId="a69f2" Type="Protein">
     <Graphics CenterX="1355.4833333333333" CenterY="890.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -41,11 +41,11 @@
     <Graphics CenterX="531.5" CenterY="1460.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="d5 desaturase" GraphId="a7418" Type="Metabolite">
+  <DataNode TextLabel="d5 desaturase" GraphId="a7418" Type="Protein">
     <Graphics CenterX="1850.9833333333333" CenterY="558.15" Width="66.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="COX-2" GraphId="a7b80" Type="Metabolite">
+  <DataNode TextLabel="COX-2" GraphId="a7b80" Type="Protein">
     <Graphics CenterX="1848.8166666666666" CenterY="642.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -57,11 +57,11 @@
     <Graphics CenterX="260.8333333333333" CenterY="1127.65" Width="61.666666666666664" Height="18.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Glutathione disulfide" GraphId="a9fd0" Type="Metabolite">
+  <DataNode TextLabel="Glutathione disulfide" GraphId="a9fd0" Type="Protein">
     <Graphics CenterX="823.1666666666666" CenterY="444.15" Width="110.33333333333333" Height="23.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="LA (n-6)" GraphId="aa3b5" Type="Metabolite">
+  <DataNode TextLabel="LA (n-6)" GraphId="aa3b5" Type="Protein">
     <Graphics CenterX="1778.0" CenterY="523.0" Width="50.666666666666664" Height="19.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -69,7 +69,7 @@
     <Graphics CenterX="585.5" CenterY="459.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="5-HPETE" GraphId="aa63c" Type="Metabolite">
+  <DataNode TextLabel="5-HPETE" GraphId="aa63c" Type="Protein">
     <Graphics CenterX="841.0" CenterY="688.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -85,7 +85,7 @@
     <Graphics CenterX="1332.5" CenterY="734.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff9900" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="02" GraphId="b0908" Type="Metabolite">
+  <DataNode TextLabel="02" GraphId="b0908" Type="Protein">
     <Graphics CenterX="997.6666666666666" CenterY="649.65" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -101,7 +101,7 @@
     <Graphics CenterX="695.5" CenterY="577.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="GSHR" GraphId="b2c82" Type="Metabolite">
+  <DataNode TextLabel="GSHR" GraphId="b2c82" Type="Protein">
     <Graphics CenterX="723.0" CenterY="501.5" Width="50.0" Height="13.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -109,11 +109,11 @@
     <Graphics CenterX="600.5" CenterY="423.5" Width="87.0" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene B4" GraphId="b3414" Type="Metabolite">
+  <DataNode TextLabel="Leukotriene B4" GraphId="b3414" Type="Protein">
     <Graphics CenterX="562.6666666666666" CenterY="741.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Methionine " GraphId="b35b0" Type="Metabolite">
+  <DataNode TextLabel="Methionine " GraphId="b35b0" Type="Protein">
     <Graphics CenterX="210.0" CenterY="1100.8333333333333" Width="67.33333333333333" Height="13.666666666666666" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -125,7 +125,7 @@
     <Graphics CenterX="1392.5" CenterY="463.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="THAS" GraphId="b4c7a" Type="Metabolite">
+  <DataNode TextLabel="THAS" GraphId="b4c7a" Type="Protein">
     <Graphics CenterX="1168.15" CenterY="874.15" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -133,11 +133,11 @@
     <Graphics CenterX="1479.0" CenterY="455.1666666666667" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGF2a" GraphId="b5552" Type="Metabolite">
+  <DataNode TextLabel="PGF2a" GraphId="b5552" Type="Protein">
     <Graphics CenterX="996.8333333333334" CenterY="924.8166666666667" Width="53.0" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Lipoic acid" GraphId="b5869" Type="Metabolite">
+  <DataNode TextLabel="Lipoic acid" GraphId="b5869" Type="Protein">
     <Graphics CenterX="1588.9833333333333" CenterY="297.98333333333335" Width="86.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -149,7 +149,7 @@
     <Graphics CenterX="2041.5" CenterY="588.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Manganese" GraphId="b823a" Type="Metabolite">
+  <DataNode TextLabel="Manganese" GraphId="b823a" Type="Protein">
     <Graphics CenterX="1508.65" CenterY="397.31666666666666" Width="73.36666666666666" Height="16.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -157,7 +157,7 @@
     <Graphics CenterX="1502.6666666666667" CenterY="1037.8333333333333" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="15-HETE" GraphId="b8978" Type="Metabolite">
+  <DataNode TextLabel="15-HETE" GraphId="b8978" Type="Protein">
     <Graphics CenterX="915.0" CenterY="1121.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -165,15 +165,15 @@
     <Graphics CenterX="531.5" CenterY="1556.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="F2-isoprostanes" GraphId="b935b" Type="Metabolite">
+  <DataNode TextLabel="F2-isoprostanes" GraphId="b935b" Type="Protein">
     <Graphics CenterX="1588.3166666666666" CenterY="751.0" Width="86.03333333333333" Height="27.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGI2" GraphId="b9656" Type="Metabolite">
+  <DataNode TextLabel="PGI2" GraphId="b9656" Type="Protein">
     <Graphics CenterX="1382.0" CenterY="947.9833333333333" Width="47.333333333333336" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGH3" GraphId="b9f51" Type="Metabolite">
+  <DataNode TextLabel="PGH3" GraphId="b9f51" Type="Protein">
     <Graphics CenterX="2028.65" CenterY="819.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -185,11 +185,11 @@
     <Graphics CenterX="1391.5" CenterY="394.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Uric Acid" GraphId="bb6cf" Type="Metabolite">
+  <DataNode TextLabel="Uric Acid" GraphId="bb6cf" Type="Protein">
     <Graphics CenterX="502.0" CenterY="270.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Homocysteine" GraphId="bb72f" Type="Metabolite">
+  <DataNode TextLabel="Homocysteine" GraphId="bb72f" Type="Protein">
     <Graphics CenterX="318.0" CenterY="1064.8333333333333" Width="72.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -209,15 +209,15 @@
     <Graphics CenterX="509.0" CenterY="571.6666666666666" Width="50.0" Height="17.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGE3" GraphId="bff18" Type="Metabolite">
+  <DataNode TextLabel="PGE3" GraphId="bff18" Type="Protein">
     <Graphics CenterX="2027.3166666666666" CenterY="674.65" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Uric Acid" GraphId="c0ea6" Type="Metabolite">
+  <DataNode TextLabel="Uric Acid" GraphId="c0ea6" Type="Protein">
     <Graphics CenterX="499.0" CenterY="1043.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Tromboxane A2" GraphId="c15d8" Type="Metabolite">
+  <DataNode TextLabel="Tromboxane A2" GraphId="c15d8" Type="Protein">
     <Graphics CenterX="957.5" CenterY="1078.65" Width="83.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -225,35 +225,35 @@
     <Graphics CenterX="321.5" CenterY="1654.9833333333333" Width="157.0" Height="18.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="00cc33" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGE2" GraphId="c2105" Type="Metabolite">
+  <DataNode TextLabel="PGE2" GraphId="c2105" Type="Protein">
     <Graphics CenterX="1643.3166666666666" CenterY="1039.3166666666666" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene A4" GraphId="c210c" Type="Metabolite">
-    <Graphics CenterX="634.6666666666666" CenterY="701.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+  <DataNode TextLabel="Leukotriene A4" GraphId="c210c" Type="Protein">
+    <Graphics CenterX="633.6666666666666" CenterY="701.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Methionine " GraphId="c3648" Type="Metabolite">
+  <DataNode TextLabel="Methionine " GraphId="c3648" Type="Protein">
     <Graphics CenterX="183.0" CenterY="567.8333333333334" Width="67.33333333333333" Height="13.666666666666666" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene C4" GraphId="c3688" Type="Metabolite">
-    <Graphics CenterX="691.6666666666666" CenterY="741.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+  <DataNode TextLabel="Leukotriene C4" GraphId="c3688" Type="Protein">
+    <Graphics CenterX="693.6666666666666" CenterY="741.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="EPA (n-3)" GraphId="c3c7f" Type="Metabolite">
     <Graphics CenterX="1935.0" CenterY="609.8333333333334" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="FAD" GraphId="c5513" Type="Metabolite">
+  <DataNode TextLabel="FAD" GraphId="c5513" Type="Protein">
     <Graphics CenterX="586.6666666666666" CenterY="502.31666666666666" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Catalase" GraphId="c5781" Type="Metabolite">
+  <DataNode TextLabel="Catalase" GraphId="c5781" Type="Protein">
     <Graphics CenterX="964.3333333333334" CenterY="599.4833333333333" Width="54.666666666666664" Height="17.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Tromboxane A2" GraphId="c5e29" Type="Metabolite">
+  <DataNode TextLabel="Tromboxane A2" GraphId="c5e29" Type="Protein">
     <Graphics CenterX="977.5" CenterY="785.65" Width="83.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -261,15 +261,15 @@
     <Graphics CenterX="1971.6666666666667" CenterY="371.8333333333333" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Glutathione" GraphId="c7aaa" Type="Metabolite">
+  <DataNode TextLabel="Glutathione" GraphId="c7aaa" Type="Protein">
     <Graphics CenterX="837.6666666666666" CenterY="1103.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGG3" GraphId="c8065" Type="Metabolite">
+  <DataNode TextLabel="PGG3" GraphId="c8065" Type="Protein">
     <Graphics CenterX="2027.9833333333333" CenterY="745.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="AA (n-6)" GraphId="c8247" Type="Metabolite">
+  <DataNode TextLabel="AA (n-6)" GraphId="c8247" Type="Protein">
     <Graphics CenterX="1701.0" CenterY="1130.3333333333333" Width="50.666666666666664" Height="19.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -285,19 +285,19 @@
     <Graphics CenterX="780.5" CenterY="397.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Hypoxanthine " GraphId="c9aa8" Type="Metabolite">
+  <DataNode TextLabel="Hypoxanthine " GraphId="c9aa8" Type="Protein">
     <Graphics CenterX="534.0" CenterY="1078.0" Width="82.0" Height="18.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="NAD(P)" GraphId="ca0b4" Type="Metabolite">
+  <DataNode TextLabel="NAD(P)" GraphId="ca0b4" Type="Protein">
     <Graphics CenterX="704.1666666666666" CenterY="1160.15" Width="50.333333333333336" Height="15.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Lipoxin A4" GraphId="ca55b" Type="Metabolite">
+  <DataNode TextLabel="Lipoxin A4" GraphId="ca55b" Type="Protein">
     <Graphics CenterX="821.0" CenterY="747.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Endoperoxidase" GraphId="cb2ab" Type="Metabolite">
+  <DataNode TextLabel="Endoperoxidase" GraphId="cb2ab" Type="Protein">
     <Graphics CenterX="1851.9833333333333" CenterY="686.3166666666667" Width="90.7" Height="24.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -305,7 +305,7 @@
     <Graphics CenterX="1151.5" CenterY="605.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Glutathione" GraphId="ccbaf" Type="Metabolite">
+  <DataNode TextLabel="Glutathione" GraphId="ccbaf" Type="Protein">
     <Graphics CenterX="836.6666666666666" CenterY="574.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -313,7 +313,7 @@
     <Graphics CenterX="1462.5" CenterY="712.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGD2" GraphId="cdfde" Type="Metabolite">
+  <DataNode TextLabel="PGD2" GraphId="cdfde" Type="Protein">
     <Graphics CenterX="1449.3166666666666" CenterY="1063.3166666666666" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -321,39 +321,39 @@
     <Graphics CenterX="1259.8166666666666" CenterY="789.4833333333333" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="H20" GraphId="cf257" Type="Metabolite">
+  <DataNode TextLabel="H20" GraphId="cf257" Type="Protein">
     <Graphics CenterX="921.6666666666666" CenterY="651.3166666666667" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="METH" GraphId="cf3f5" Type="Metabolite">
+  <DataNode TextLabel="METH" GraphId="cf3f5" Type="Protein">
     <Graphics CenterX="264.1666666666667" CenterY="569.0" Width="39.666666666666664" Height="15.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Cysteine" GraphId="cfdc5" Type="Metabolite">
+  <DataNode TextLabel="Cysteine" GraphId="cfdc5" Type="Protein">
     <Graphics CenterX="391.0" CenterY="643.1666666666666" Width="67.33333333333333" Height="13.666666666666666" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="C22:5 (n-6)" GraphId="d0257" Type="Metabolite">
+  <DataNode TextLabel="C22:5 (n-6)" GraphId="d0257" Type="Protein">
     <Graphics CenterX="1758.0" CenterY="875.3166666666667" Width="52.0" Height="22.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGF2a" GraphId="d0780" Type="Metabolite">
+  <DataNode TextLabel="PGF2a" GraphId="d0780" Type="Protein">
     <Graphics CenterX="997.8333333333334" CenterY="1040.8166666666666" Width="53.0" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PNPO" GraphId="d07e8" Type="Metabolite">
-    <Graphics CenterX="437.1666666666667" CenterY="421.6666666666667" Width="51.0" Height="16.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+  <DataNode TextLabel="PNPO" GraphId="d07e8" Type="Protein">
+    <Graphics CenterX="436.1666666666667" CenterY="421.6666666666667" Width="51.0" Height="16.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="Entrez Gene" ID="55163" />
   </DataNode>
   <DataNode TextLabel="Copper" GraphId="d0a67" Type="Metabolite">
     <Graphics CenterX="1481.0" CenterY="499.8333333333333" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene D4" GraphId="d0e65" Type="Metabolite">
-    <Graphics CenterX="665.6666666666666" CenterY="1115.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+  <DataNode TextLabel="Leukotriene D4" GraphId="d0e65" Type="Protein">
+    <Graphics CenterX="667.6666666666666" CenterY="1115.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="GPX 1,2,3,4 &amp; 6" GraphId="d15a3" Type="Metabolite">
+  <DataNode TextLabel="GPX 1,2,3,4 &amp; 6" GraphId="d15a3" Type="Protein">
     <Graphics CenterX="939.5" CenterY="522.9833333333333" Width="87.0" Height="14.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -361,7 +361,7 @@
     <Graphics CenterX="1586.5" CenterY="708.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff9900" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="LOX5" GraphId="d1aeb" Type="Metabolite">
+  <DataNode TextLabel="LOX5" GraphId="d1aeb" Type="Protein">
     <Graphics CenterX="1373.8166666666666" CenterY="689.4833333333333" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -369,15 +369,15 @@
     <Graphics CenterX="324.31666666666666" CenterY="1542.4833333333333" Width="111.36666666666666" Height="49.03333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene B4" GraphId="d29ce" Type="Metabolite">
+  <DataNode TextLabel="Leukotriene B4" GraphId="d29ce" Type="Protein">
     <Graphics CenterX="571.6666666666666" CenterY="1137.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="LeukotrieneE4" GraphId="d309a" Type="Metabolite">
+  <DataNode TextLabel="LeukotrieneE4" GraphId="d309a" Type="Protein">
     <Graphics CenterX="730.6666666666666" CenterY="1062.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Xanthine" GraphId="d34c3" Type="Metabolite">
+  <DataNode TextLabel="Xanthine" GraphId="d34c3" Type="Protein">
     <Graphics CenterX="683.0" CenterY="345.5" Width="56.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -389,23 +389,23 @@
     <Graphics CenterX="1172.5" CenterY="544.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGIS" GraphId="d40f1" Type="Metabolite">
+  <DataNode TextLabel="PGIS" GraphId="d40f1" Type="Protein">
     <Graphics CenterX="1289.4833333333333" CenterY="891.4833333333333" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="KMO" GraphId="d43d4" Type="Metabolite">
+  <DataNode TextLabel="KMO" GraphId="d43d4" Type="Protein">
     <Graphics CenterX="587.0" CenterY="571.6666666666666" Width="50.0" Height="17.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="iPF2-alpha" GraphId="d579a" Type="Metabolite">
+  <DataNode TextLabel="iPF2-alpha" GraphId="d579a" Type="Protein">
     <Graphics CenterX="1596.3333333333333" CenterY="1121.0" Width="72.66666666666667" Height="27.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="C22:5 (n-6)" GraphId="d6409" Type="Metabolite">
+  <DataNode TextLabel="C22:5 (n-6)" GraphId="d6409" Type="Protein">
     <Graphics CenterX="1762.0" CenterY="1110.9833333333333" Width="54.666666666666664" Height="26.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PTGES" GraphId="d7c44" Type="Metabolite">
+  <DataNode TextLabel="PTGES" GraphId="d7c44" Type="Protein">
     <Graphics CenterX="1849.65" CenterY="742.65" Width="44.7" Height="18.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -417,11 +417,11 @@
     <Graphics CenterX="1103.15" CenterY="523.4833333333333" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Tromboxane B2" GraphId="da75e" Type="Metabolite">
-    <Graphics CenterX="976.5" CenterY="829.65" Width="83.0" Height="18.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+  <DataNode TextLabel="Tromboxane B2" GraphId="da75e" Type="Protein">
+    <Graphics CenterX="978.5" CenterY="829.65" Width="83.0" Height="18.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="H202" GraphId="da89b" Type="Metabolite">
+  <DataNode TextLabel="H202" GraphId="da89b" Type="Protein">
     <Graphics CenterX="976.6666666666666" CenterY="417.31666666666666" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -433,7 +433,7 @@
     <Graphics CenterX="858.5" CenterY="397.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Lipoxin A4" GraphId="dbd03" Type="Metabolite">
+  <DataNode TextLabel="Lipoxin A4" GraphId="dbd03" Type="Protein">
     <Graphics CenterX="821.0" CenterY="1059.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -449,11 +449,11 @@
     <Graphics CenterX="261.8333333333333" CenterY="638.15" Width="61.666666666666664" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Thioredoxin" GraphId="dff48" Type="Metabolite">
+  <DataNode TextLabel="Thioredoxin" GraphId="dff48" Type="Protein">
     <Graphics CenterX="1331.9833333333333" CenterY="575.9833333333333" Width="69.36666666666666" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Lipoxin B4" GraphId="e0252" Type="Metabolite">
+  <DataNode TextLabel="Lipoxin B4" GraphId="e0252" Type="Protein">
     <Graphics CenterX="924.0" CenterY="747.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -465,13 +465,13 @@
     <Graphics CenterX="1100.8166666666666" CenterY="1065.8166666666666" Width="107.03333333333333" Height="31.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ZFIN" ID="" />
   </DataNode>
-  <DataNode TextLabel="SelK" GraphId="e1ac2" Type="Metabolite">
+  <DataNode TextLabel="SelK" GraphId="e1ac2" Type="Protein">
     <Graphics CenterX="1205.4833333333333" CenterY="471.48333333333335" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Tryptophan" GraphId="e1d40" Type="Metabolite">
-    <Graphics CenterX="587.6666666666666" CenterY="638.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
-    <Xref Database="" ID="" />
+  <DataNode TextLabel="Tryptophan" GraphId="e1d40" Type="Protein">
+    <Graphics CenterX="586.6666666666666" CenterY="638.65" Width="71.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+    <Xref Database="EMBL" ID="" />
   </DataNode>
   <DataNode TextLabel="Niacin" GraphId="e42ba" Type="Metabolite">
     <Graphics CenterX="725.3166666666667" CenterY="639.9833333333333" Width="57.36666666666667" Height="20.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -501,7 +501,7 @@
     <Graphics CenterX="325.98333333333335" CenterY="485.65" Width="57.36666666666667" Height="20.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB00244" />
   </DataNode>
-  <DataNode TextLabel="FMN" GraphId="e932e" Type="Metabolite">
+  <DataNode TextLabel="FMN" GraphId="e932e" Type="Protein">
     <Graphics CenterX="434.6666666666667" CenterY="486.31666666666666" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -513,11 +513,11 @@
     <Graphics CenterX="1291.5" CenterY="618.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="COX-1" GraphId="ea237" Type="Metabolite">
+  <DataNode TextLabel="COX-1" GraphId="ea237" Type="Protein">
     <Graphics CenterX="1851.8166666666666" CenterY="590.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Methionine sulfoxide" GraphId="eb4d2" Type="Metabolite">
+  <DataNode TextLabel="Methionine sulfoxide" GraphId="eb4d2" Type="Protein">
     <Graphics CenterX="225.0" CenterY="334.5" Width="110.0" Height="17.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="HMDB" ID="HMDB02005" />
   </DataNode>
@@ -529,7 +529,7 @@
     <Graphics CenterX="1480.0" CenterY="1123.8333333333333" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="NAD(P)H" GraphId="eba20" Type="Metabolite">
+  <DataNode TextLabel="NAD(P)H" GraphId="eba20" Type="Protein">
     <Graphics CenterX="775.0" CenterY="1147.65" Width="54.0" Height="14.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -549,19 +549,19 @@
     <Graphics CenterX="586.5" CenterY="540.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Hypoxanthine " GraphId="ee224" Type="Metabolite">
+  <DataNode TextLabel="Hypoxanthine " GraphId="ee224" Type="Protein">
     <Graphics CenterX="557.0" CenterY="343.0" Width="82.0" Height="18.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="LA (n-6)" GraphId="f0453" Type="Metabolite">
+  <DataNode TextLabel="LA (n-6)" GraphId="f0453" Type="Protein">
     <Graphics CenterX="1716.0" CenterY="1078.0" Width="50.666666666666664" Height="19.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="RNS" GraphId="f050d" Type="Metabolite">
+  <DataNode TextLabel="RNS" GraphId="f050d" Type="Protein">
     <Graphics CenterX="1093.0" CenterY="1166.65" Width="42.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="SOD" GraphId="f0fc5" Type="Metabolite">
+  <DataNode TextLabel="SOD" GraphId="f0fc5" Type="Protein">
     <Graphics CenterX="1267.15" CenterY="391.15" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -569,7 +569,7 @@
     <Graphics CenterX="531.5" CenterY="1488.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="LeukotrieneE4" GraphId="f2e8b" Type="Metabolite">
+  <DataNode TextLabel="LeukotrieneE4" GraphId="f2e8b" Type="Protein">
     <Graphics CenterX="693.6666666666666" CenterY="827.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -577,7 +577,7 @@
     <Graphics CenterX="531.5" CenterY="1522.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGI2" GraphId="f37b0" Type="Metabolite">
+  <DataNode TextLabel="PGI2" GraphId="f37b0" Type="Protein">
     <Graphics CenterX="1383.0" CenterY="1062.65" Width="47.333333333333336" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -593,39 +593,39 @@
     <Graphics CenterX="1063.5" CenterY="583.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="d4 desaturase" GraphId="f7d44" Type="Metabolite">
+  <DataNode TextLabel="d4 desaturase" GraphId="f7d44" Type="Protein">
     <Graphics CenterX="1852.65" CenterY="829.6666666666666" Width="76.03333333333333" Height="23.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Heme" GraphId="f7e74" Type="Metabolite">
+  <DataNode TextLabel="Heme" GraphId="f7e74" Type="Protein">
     <Graphics CenterX="2076.65" CenterY="368.65" Width="69.36666666666666" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGH2" GraphId="f8bd0" Type="Metabolite">
+  <DataNode TextLabel="PGH2" GraphId="f8bd0" Type="Protein">
     <Graphics CenterX="1720.65" CenterY="745.3166666666667" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGD2" GraphId="f92d1" Type="Metabolite">
+  <DataNode TextLabel="PGD2" GraphId="f92d1" Type="Protein">
     <Graphics CenterX="1445.9833333333333" CenterY="946.65" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="d6 desaturase" GraphId="fa019" Type="Metabolite">
+  <DataNode TextLabel="d6 desaturase" GraphId="fa019" Type="Protein">
     <Graphics CenterX="1852.9833333333333" CenterY="500.15" Width="66.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGG2" GraphId="fa2b7" Type="Metabolite">
-    <Graphics CenterX="1719.9833333333333" CenterY="673.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
+  <DataNode TextLabel="PGG2" GraphId="fa2b7" Type="Protein">
+    <Graphics CenterX="1719.9833333333333" CenterY="671.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="INORGANIC ION" GraphId="fa645" Type="Metabolite" GroupRef="b5a37">
     <Graphics CenterX="325.0" CenterY="1401.15" Width="114.0" Height="41.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Leukotriene F4" GraphId="fc28b" Type="Metabolite">
+  <DataNode TextLabel="Leukotriene F4" GraphId="fc28b" Type="Protein">
     <Graphics CenterX="692.6666666666666" CenterY="876.65" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="AA (n-6)" GraphId="fc7f0" Type="Metabolite">
+  <DataNode TextLabel="AA (n-6)" GraphId="fc7f0" Type="Protein">
     <Graphics CenterX="1776.0" CenterY="606.3333333333334" Width="50.666666666666664" Height="19.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -633,19 +633,19 @@
     <Graphics CenterX="1365.5" CenterY="537.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGE2" GraphId="fe001" Type="Metabolite">
+  <DataNode TextLabel="PGE2" GraphId="fe001" Type="Protein">
     <Graphics CenterX="1721.3166666666666" CenterY="820.3166666666667" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="SelW" GraphId="fe274" Type="Metabolite">
-    <Graphics CenterX="1202.8166666666666" CenterY="628.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
+    <Graphics CenterX="1200.8166666666666" CenterY="628.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="T" GraphId="fe446" Type="Metabolite">
     <Graphics CenterX="1610.5" CenterY="527.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="fe533" Type="Metabolite">
+  <DataNode TextLabel="B" GraphId="fe533">
     <Graphics CenterX="261.5" CenterY="607.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -653,15 +653,15 @@
     <Graphics CenterX="1660.5" CenterY="661.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="PGFS" GraphId="ff047" Type="Metabolite">
+  <DataNode TextLabel="PGFS" GraphId="ff047" Type="Protein">
     <Graphics CenterX="1223.4833333333333" CenterY="892.15" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="ROS" GraphId="ff7f9" Type="Metabolite">
+  <DataNode TextLabel="ROS" GraphId="ff7f9" Type="Protein">
     <Graphics CenterX="1061.9833333333333" CenterY="280.3333333333333" Width="70.7" Height="21.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Cysteine" GraphId="ffdfc" Type="Metabolite">
+  <DataNode TextLabel="Cysteine" GraphId="ffdfc" Type="Protein">
     <Graphics CenterX="390.0" CenterY="1139.1666666666667" Width="67.33333333333333" Height="13.666666666666666" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -760,13 +760,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="1256.0" Y="576.0" />
       <Point X="1294.6666666666667" Y="576.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id20aa5d61">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="691.6666666666667" Y="752.0" GraphRef="c3688" RelX="0.0" RelY="1.0" />
-      <Point X="691.0" Y="775.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -903,6 +896,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id39eab363">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="693.6666666666667" Y="752.0" GraphRef="c3688" RelX="0.0" RelY="1.0" />
+      <Point X="691.0" Y="775.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id3a1075e2">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="2001.0" Y="372.0" />
@@ -977,13 +977,6 @@
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="99cc00">
       <Point X="1266.6666666666667" Y="773.3333333333334" />
       <Point X="1268.0" Y="404.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id473755ba">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="536.5" Y="352.0" GraphRef="ee224" RelX="-0.5" RelY="1.0" />
-      <Point X="536.0" Y="1137.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1162,10 +1155,24 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id67af9d1e">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="536.5" Y="352.0" GraphRef="ee224" RelX="-0.5" RelY="1.0" />
+      <Point X="534.0" Y="1069.0" GraphRef="c9aa8" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id697c8076">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="ff9900">
       <Point X="1146.6333333333334" Y="650.8166666666667" GraphRef="a30c8" RelX="-1.0" RelY="0.0" />
       <Point X="213.0" Y="450.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6b80e621">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="594.0" Y="701.65" GraphRef="c210c" RelX="-1.0" RelY="0.0" />
+      <Point X="565.3333333333334" Y="733.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1183,17 +1190,17 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id72e61b40">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="595.0" Y="701.65" GraphRef="c210c" RelX="-1.0" RelY="0.0" />
-      <Point X="565.3333333333334" Y="733.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id730f5631">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="821.0" Y="756.0" GraphRef="ca55b" RelX="0.0" RelY="1.0" />
       <Point X="821.0" Y="1052.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id753727d1">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="1742.0" Y="671.9833333333333" GraphRef="fa2b7" RelX="1.0" RelY="0.0" />
+      <Point X="1806.6333333333337" Y="686.3166666666667" GraphRef="cb2ab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1253,13 +1260,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id8410fbe">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff9900">
-      <Point X="1183.3" Y="628.8166666666667" GraphRef="fe274" RelX="-1.0" RelY="0.0" />
-      <Point X="872.3333333333335" Y="574.65" GraphRef="ccbaf" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id84d608e4">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="494.0" Y="572.0" />
@@ -1309,20 +1309,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id933e1eb5">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="1305.3333333333333" Y="899.15" />
-      <Point X="1357.0" Y="947.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id94ecedc5">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="1597.0" Y="756.0" />
-      <Point X="1597.0" Y="1106.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id95db582d">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="974.6666666666666" Y="609.3333333333334" />
@@ -1344,6 +1330,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id989f9403">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="1597.0" Y="758.0" />
+      <Point X="1597.0" Y="1106.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id9bd88e67">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="957.0" Y="712.65" GraphRef="a0f84" RelX="1.0" RelY="0.0" />
@@ -1351,17 +1344,10 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id9bdab90f">
+  <Interaction GraphId="id9db40c2e">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="400.6333333333333" Y="571.9833333333333" GraphRef="ed3fe" RelX="-1.0" RelY="0.0" />
-      <Point X="375.3333333333333" Y="571.3333333333334" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id9fe48355">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="674.3333333333335" Y="701.65" GraphRef="c210c" RelX="1.0" RelY="0.0" />
-      <Point X="691.6666666666667" Y="731.3" GraphRef="c3688" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="375.3333333333333" Y="572.3333333333334" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1414,10 +1400,24 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idaf9a9538">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="673.3333333333335" Y="701.65" GraphRef="c210c" RelX="1.0" RelY="0.0" />
+      <Point X="693.6666666666667" Y="731.3" GraphRef="c3688" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idafca170c">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="966.8333333333334" Y="424.33333333333337" GraphRef="da89b" RelX="-0.5" RelY="1.0" />
       <Point X="939.5" Y="515.6333333333333" GraphRef="d15a3" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idb190d170">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="1148.6333333333334" Y="874.15" GraphRef="b4c7a" RelX="-1.0" RelY="0.0" />
+      <Point X="1020.0" Y="829.65" GraphRef="da75e" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1470,6 +1470,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idba80bd88">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="1832.3" Y="590.8166666666667" GraphRef="ea237" RelX="-1.0" RelY="0.0" />
+      <Point X="1742.0" Y="671.9833333333333" GraphRef="fa2b7" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idbbbdbad5">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
       <Point X="2093.991666666667" Y="379.3333333333333" GraphRef="f7e74" RelX="0.5" RelY="1.0" />
@@ -1488,13 +1495,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="578.75" Y="414.0" GraphRef="b2d0b" RelX="-0.5" RelY="-1.0" />
       <Point X="557.0" Y="352.0" GraphRef="ee224" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idbe3363c6">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="1832.3" Y="590.8166666666667" GraphRef="ea237" RelX="-1.0" RelY="0.0" />
-      <Point X="1742.0" Y="673.9833333333333" GraphRef="fa2b7" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1589,6 +1589,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idc8bb4133">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="1303.3333333333333" Y="899.15" />
+      <Point X="1357.0" Y="947.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idcad7dd23">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
       <Point X="1479.0" Y="467.6666666666667" GraphRef="b4fde" RelX="0.0" RelY="1.0" />
@@ -1617,6 +1624,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idd23af1c8">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
+      <Point X="1829.3" Y="642.8166666666667" GraphRef="a7b80" RelX="-1.0" RelY="0.0" />
+      <Point X="1742.0" Y="671.9833333333333" GraphRef="fa2b7" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idd2873b8f">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
       <Point X="1157.0" Y="506.3333333333333" />
@@ -1638,6 +1652,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idd40a1280">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff9900">
+      <Point X="1181.3" Y="628.8166666666667" GraphRef="fe274" RelX="-1.0" RelY="0.0" />
+      <Point X="872.3333333333335" Y="574.65" GraphRef="ccbaf" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idd40ebc62">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="1447.0" Y="956.0" />
@@ -1656,13 +1677,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="99cc00">
       <Point X="2059.3083333333334" Y="379.3333333333333" GraphRef="f7e74" RelX="-0.5" RelY="1.0" />
       <Point X="1365.2416666666668" Y="881.9666666666667" GraphRef="a69f2" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idd5ed9806">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="1829.3" Y="642.8166666666667" GraphRef="a7b80" RelX="-1.0" RelY="0.0" />
-      <Point X="1742.0" Y="673.9833333333333" GraphRef="fa2b7" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1708,13 +1722,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="ide2068ee7">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="1148.6333333333334" Y="874.15" GraphRef="b4c7a" RelX="-1.0" RelY="0.0" />
-      <Point X="1018.0" Y="829.65" GraphRef="da75e" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="ide2c86f04">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="502.0" Y="279.0" GraphRef="bb6cf" RelX="0.0" RelY="1.0" />
@@ -1743,9 +1750,9 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="ide55b532b">
+  <Interaction GraphId="ide48cd4aa">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="437.1666666666667" Y="413.6666666666667" GraphRef="d07e8" RelX="0.0" RelY="-1.0" />
+      <Point X="436.1666666666667" Y="413.6666666666667" GraphRef="d07e8" RelX="0.0" RelY="-1.0" />
       <Point X="436.6666666666667" Y="323.3333333333333" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1761,13 +1768,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
       <Point X="1788.6666666666667" Y="616.0000000000002" GraphRef="fc7f0" RelX="0.5" RelY="1.0" />
       <Point X="1829.3" Y="642.8166666666667" GraphRef="a7b80" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idea2268d3">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="cccccc">
-      <Point X="1742.0" Y="673.9833333333333" GraphRef="fa2b7" RelX="1.0" RelY="0.0" />
-      <Point X="1806.6333333333337" Y="686.3166666666667" GraphRef="cb2ab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
