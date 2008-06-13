@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16196" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16198" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
   <Graphics BoardWidth="2235.0" BoardHeight="1771.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Protein">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
@@ -274,7 +274,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="B" GraphId="c88fe" Type="Metabolite">
-    <Graphics CenterX="546.5" CenterY="535.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
+    <Graphics CenterX="540.5" CenterY="535.1666666666666" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="NAD(P)H" GraphId="c93fa" Type="Metabolite">
