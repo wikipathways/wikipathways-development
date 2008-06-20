@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16460" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16493" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
   <Graphics BoardWidth="2235.0" BoardHeight="1771.0" />
   <DataNode TextLabel="15-HETE" GraphId="a0f84" Type="Protein">
     <Graphics CenterX="926.0" CenterY="712.65" Width="62.0" Height="16.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="cc00cc" />
@@ -539,7 +539,7 @@
   </DataNode>
   <DataNode TextLabel="Folic acid" GraphId="ed3fe" Type="Metabolite">
     <Graphics CenterX="429.31666666666666" CenterY="571.9833333333333" Width="57.36666666666667" Height="20.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="HMDB" ID="HMDB00121" />
   </DataNode>
   <DataNode TextLabel="B" GraphId="ed8cf" Type="Metabolite">
     <Graphics CenterX="1400.5" CenterY="432.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
