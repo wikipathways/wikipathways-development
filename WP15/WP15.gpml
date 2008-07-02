@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r16962" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r17101" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
   <Graphics BoardWidth="2255.0" BoardHeight="1456.0000000000002" />
   <DataNode TextLabel="ALA (n-3)" GraphId="a0e7d" Type="Metabolite">
     <Graphics CenterX="1954.3333333333333" CenterY="338.1666666666667" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
@@ -74,7 +74,7 @@
     <Graphics CenterX="1085.5" CenterY="422.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff9900" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="ace37" Type="Metabolite">
+  <DataNode TextLabel="B" GraphId="ace37">
     <Graphics CenterX="605.5" CenterY="273.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -182,7 +182,7 @@
     <Graphics CenterX="1172.8333333333333" CenterY="419.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="bcf76" Type="Metabolite">
+  <DataNode TextLabel="B" GraphId="bcf76">
     <Graphics CenterX="457.5" CenterY="270.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -258,8 +258,8 @@
     <Graphics CenterX="1197.5" CenterY="408.5" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="T" GraphId="c67d2" Type="Metabolite">
-    <Graphics CenterX="799.1666666666666" CenterY="211.83333333333334" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
+  <DataNode TextLabel="T" GraphId="c67d2">
+    <Graphics CenterX="800.5" CenterY="211.83333333333334" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Methionine sulfoxide" GraphId="c7745" Type="Metabolite">
@@ -278,8 +278,8 @@
     <Graphics CenterX="686.6666666666666" CenterY="930.3166666666667" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="HMDB" ID="HMDB03080" />
   </DataNode>
-  <DataNode TextLabel="T" GraphId="c9037" Type="Metabolite">
-    <Graphics CenterX="878.5" CenterY="211.83333333333334" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="99cc00" />
+  <DataNode TextLabel="T" GraphId="c9037">
+    <Graphics CenterX="879.8333333333334" CenterY="211.83333333333334" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="EPA (n-3)" GraphId="c98d9" Type="Metabolite">
@@ -294,7 +294,7 @@
     <Graphics CenterX="1742.3166666666666" CenterY="635.9833333333333" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="cb984" Type="Metabolite">
+  <DataNode TextLabel="B" GraphId="cb984">
     <Graphics CenterX="377.5" CenterY="423.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -399,7 +399,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="B" GraphId="d846e">
-    <Graphics CenterX="281.5" CenterY="421.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
+    <Graphics CenterX="280.1666666666667" CenterY="421.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="Pyrodoxal 5'-phosphate" GraphId="d9de7" Type="Metabolite">
@@ -422,8 +422,8 @@
     <Graphics CenterX="1577.8333333333333" CenterY="333.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="dcb6e" Type="Metabolite">
-    <Graphics CenterX="717.5" CenterY="393.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
+  <DataNode TextLabel="B" GraphId="dcb6e">
+    <Graphics CenterX="718.8333333333334" CenterY="393.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="NADPH" GraphId="dcb9d" Type="Metabolite">
@@ -446,8 +446,8 @@
     <Graphics CenterX="543.5" CenterY="1293.5" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="decf6" Type="Metabolite">
-    <Graphics CenterX="771.5" CenterY="411.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
+  <DataNode TextLabel="B" GraphId="decf6">
+    <Graphics CenterX="772.8333333333334" CenterY="411.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="TN" GraphId="e051a" Type="Metabolite">
@@ -494,7 +494,7 @@
     <Graphics CenterX="1243.4833333333333" CenterY="706.8166666666667" Width="39.03333333333333" Height="17.7" ZOrder="32768" FontSize="12" Valign="Middle" Color="ff0000" />
     <Xref Database="" ID="EC 1.1.1.188" />
   </DataNode>
-  <DataNode TextLabel="B" GraphId="e822b" Type="Metabolite">
+  <DataNode TextLabel="B" GraphId="e822b">
     <Graphics CenterX="658.1666666666666" CenterY="415.8333333333333" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -1912,6 +1912,16 @@
   <Group GroupId="c99d0" GraphId="ef95e" TextLabel="new group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fd4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14726604</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nitric oxide and superoxide in inflammation and immune regulation.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Physiol Pharmacol.</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2003</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guzik TJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Korbut R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adamek-Guzik T.</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="dd2">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6300970</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1928,16 +1938,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Girard Y</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larue M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rokach J.</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fd4">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14726604</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nitric oxide and superoxide in inflammation and immune regulation.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Physiol Pharmacol.</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2003</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Guzik TJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Korbut R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adamek-Guzik T.</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
