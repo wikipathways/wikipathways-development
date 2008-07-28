@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r17703" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r17705" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">The selenium-centred micronutrient biological network. The most relevant biochemical processes related to selenium in the context of metabolism, oxidation and inflammation are represented. Also, the compartmental separation (intracellular vs. plasma) is presented, identifying the selenium centred plasma metabolome. </Comment>
   <Graphics BoardWidth="2255.0" BoardHeight="1456.0000000000002" />
   <DataNode TextLabel="ALA (n-3)" GraphId="a0e7d" Type="Metabolite">
     <Graphics CenterX="1954.3333333333333" CenterY="338.1666666666667" Width="56.666666666666664" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
