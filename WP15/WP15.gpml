@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r17705" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r17707" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The selenium-centred micronutrient biological network. The most relevant biochemical processes related to selenium in the context of metabolism, oxidation and inflammation are represented. Also, the compartmental separation (intracellular vs. plasma) is presented, identifying the selenium centred plasma metabolome. </Comment>
   <Graphics BoardWidth="2255.0" BoardHeight="1456.0000000000002" />
   <DataNode TextLabel="ALA (n-3)" GraphId="a0e7d" Type="Metabolite">
@@ -1878,7 +1878,7 @@
     <Graphics CenterX="337.6666666666667" CenterY="1210.6666666666667" Width="115.33333333333333" Height="41.333333333333336" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
   </Label>
   <Label TextLabel="PLASMA" GraphId="ad1e5">
-    <Graphics CenterX="220.83333333333334" CenterY="1023.6666666666666" Width="98.33333333333333" Height="22.0" ZOrder="28672" FillColor="ffffff" FontSize="20" Valign="Middle" />
+    <Graphics CenterX="212.83333333333334" CenterY="1023.6666666666666" Width="98.33333333333333" Height="22.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" Color="993300" />
   </Label>
   <Label TextLabel="INORGANIC ION" GraphId="b044f">
     <Graphics CenterX="337.3333333333333" CenterY="1141.6666666666667" Width="114.66666666666667" Height="39.333333333333336" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Rectangle" Color="3300ff" />
@@ -1906,6 +1906,9 @@
   </Label>
   <Label TextLabel="Influence on expression " GraphId="e5992">
     <Graphics CenterX="668.0" CenterY="1258.8333333333333" Width="134.0" Height="21.0" ZOrder="28672" FillColor="ffffff" FontSize="11" Valign="Middle" />
+  </Label>
+  <Label TextLabel="INTRACELULAR" GraphId="f4aa5">
+    <Graphics CenterX="235.5" CenterY="762.3333333333334" Width="187.0" Height="35.333333333333336" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="20" Valign="Middle" Color="993300" />
   </Label>
   <Label TextLabel="" GraphId="f68ca">
     <Graphics CenterX="1623.8333333333333" CenterY="430.6666666666667" Width="20.333333333333332" Height="12.0" ZOrder="28672" FillColor="ffffff" FontSize="13" Valign="Middle" ShapeType="Rectangle" />
