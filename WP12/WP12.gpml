@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r14749" Author="Ehsiao | AlexanderPico | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r20697" Author="Ehsiao | AlexanderPico | MaintBot | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="906.0" BoardHeight="542.0333333333333" />
   <DataNode TextLabel="Na+" GraphId="a663c" Type="Metabolite">
