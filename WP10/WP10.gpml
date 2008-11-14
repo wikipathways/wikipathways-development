@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="IL-9 Signaling Pathway" Data-Source="WikiPathways" Version="WP10_r8202" Author="A.Pandey | MaintBot | " Organism="Mus musculus">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="IL-9 Signaling Pathway" Data-Source="WikiPathways" Version="WP10_r20693" Author="A.Pandey | MaintBot | " Organism="Mus musculus">
   <Comment Source="GenMAPP notes">NetPath 20 - IL-9 Signaling Pathway&#xD;
 NetPath (http://www.netpath.org) is a collaborative project between PandeyLab at Johns Hopkins University (http://pandeylab.igm.jhmi.edu) and the Institute of Bioinformatics (http://www.ibioinformatics.org).  If you use this pathway, you must cite the NetPath website until the pathway is published.</Comment>
   <Comment Source="GenMAPP remarks">http://www.netpath.org</Comment>
