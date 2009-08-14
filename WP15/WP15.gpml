@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r29615" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | MaintBot | Evelo | MartijnVanIersel | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r31974" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | MaintBot | Evelo | MartijnVanIersel | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The selenium-centred micronutrient biological network. The most relevant biochemical processes related to selenium in the context of metabolism, oxidation and inflammation are represented. Also, the compartmental separation (intracellular vs. plasma) is presented, identifying the selenium centred plasma metabolome.
 A selenoprotein database exists at: http://www.selenodb.org.</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
@@ -1936,10 +1936,10 @@ A selenoprotein database exists at: http://www.selenodb.org.</Comment>
   <Shape GraphId="cbc16">
     <Graphics CenterX="496.0" CenterY="1258.6666666666667" Width="521.3333333333334" Height="334.6666666666667" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Color="00ffff" Rotation="0.0" />
   </Shape>
-  <Group GroupId="da0be" GraphId="c3ad5" TextLabel="new group" />
-  <Group GroupId="a30ed" GraphId="cb022" TextLabel="new group" />
-  <Group GroupId="f4b3a" GraphId="e0599" TextLabel="new group" />
-  <Group GroupId="c99d0" GraphId="ef95e" TextLabel="new group" />
+  <Group GroupId="da0be" GraphId="c3ad5" />
+  <Group GroupId="a30ed" GraphId="cb022" />
+  <Group GroupId="f4b3a" GraphId="e0599" />
+  <Group GroupId="c99d0" GraphId="ef95e" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="dd2">
