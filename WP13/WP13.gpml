@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r20699" Author="Kdahlquist | MaintBot | D.Koren | " Maintainer="GenMAPP.org" Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r34367" Author="Kdahlquist | MaintBot | D.Koren | " Maintainer="GenMAPP.org" Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes">http://www.genomeknowledge.org/cgi-bin/eventbrowser?DB=gk_current&amp;ID=69306</Comment>
   <Comment Source="GenMAPP remarks">Based on www.genomeknowledge.org</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
@@ -112,9 +112,9 @@
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="CDC6" GraphId="d10" Type="GeneProduct">
-    <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC6 | CDC6 cell division cycle 6 homolog (S. c..." />
+    <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC6" />
     <Graphics CenterX="1050.0" CenterY="220.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="Entrez Gene" ID="853244" />
   </DataNode>
   <DataNode TextLabel="CDC7" GraphId="d1b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC7 | DDK (Dbf4-dependent kinase) catalytic su..." />
@@ -150,9 +150,9 @@
     <Xref Database="Entrez Gene" ID="856680" />
   </DataNode>
   <DataNode TextLabel="MCM10" GraphId="de9" Type="GeneProduct">
-    <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCM10 | MCM10 minichromosome maintenance defici..." />
+    <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCM10" />
     <Graphics CenterX="1820.0" CenterY="136.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="Entrez Gene" ID="854656" />
   </DataNode>
   <DataNode TextLabel="PRI1" GraphId="e06" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRI1 | Subunit of DNA primase which is requir..." />
