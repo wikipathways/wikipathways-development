@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r38783" Author="Ehsiao | AlexanderPico | MaintBot | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast" Data-Source="WikiPathways" Version="WP12_r38784" Author="Ehsiao | AlexanderPico | MaintBot | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
-  <Graphics BoardWidth="873.0" BoardHeight="407.0" />
+  <Graphics BoardWidth="873.0" BoardHeight="549.0" />
   <DataNode TextLabel="Ca2+" GraphId="b2d25" Type="Metabolite">
     <Graphics CenterX="157.5" CenterY="250.0" Width="27.0" Height="26.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
     <Xref Database="PubChem" ID="271" />
@@ -206,6 +206,9 @@
   <Label TextLabel="Bone" GraphId="f53">
     <Graphics CenterX="436.0" CenterY="330.03333333333336" Width="48.0" Height="19.933333333333334" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle" Color="999999" />
   </Label>
+  <Shape GraphId="f0652">
+    <Graphics CenterX="437.5" CenterY="318.0" Width="733.0" Height="402.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Arc" Color="999999" Rotation="3.141592653589793" />
+  </Shape>
   <Group GroupId="ebf27" Style="Complex" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
 </Pathway>
