@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r41056" Author="Ehsiao | AlexanderPico | MaintBot | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r43864" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="873.0" BoardHeight="549.0" />
   <DataNode TextLabel="Ca2+" GraphId="b2d25" Type="Metabolite">
@@ -46,6 +46,10 @@
     <Graphics CenterX="208.5" CenterY="367.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
     <Xref Database="PubChem" ID="5362549" />
   </DataNode>
+  <DataNode TextLabel="AIMP2" GraphId="d062f" Type="GeneProduct">
+    <Graphics CenterX="663.0" CenterY="259.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="Ensembl Human" ID="ENSG00000106305" />
+  </DataNode>
   <DataNode TextLabel="TRAP" GraphId="d2e" Type="Protein">
     <Graphics CenterX="467.5" CenterY="366.0" Width="59.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="54" />
@@ -73,6 +77,10 @@
   <DataNode TextLabel="H+ ATPase" GraphId="edf" Type="Protein">
     <Graphics CenterX="568.0" CenterY="317.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="9550" />
+  </DataNode>
+  <DataNode TextLabel="MAPK8" GraphId="ee596" Type="GeneProduct">
+    <Graphics CenterX="750.0" CenterY="277.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="Ensembl Human" ID="ENSG00000107643" />
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="ef6" Type="Metabolite">
     <Graphics CenterX="291.5" CenterY="255.5" Width="23.0" Height="21.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
