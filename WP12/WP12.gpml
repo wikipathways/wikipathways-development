@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r43864" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r43865" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="873.0" BoardHeight="549.0" />
   <DataNode TextLabel="Ca2+" GraphId="b2d25" Type="Metabolite">
@@ -47,7 +47,7 @@
     <Xref Database="PubChem" ID="5362549" />
   </DataNode>
   <DataNode TextLabel="AIMP2" GraphId="d062f" Type="GeneProduct">
-    <Graphics CenterX="663.0" CenterY="259.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="665.0" CenterY="261.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Ensembl Human" ID="ENSG00000106305" />
   </DataNode>
   <DataNode TextLabel="TRAP" GraphId="d2e" Type="Protein">
@@ -199,6 +199,20 @@
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="114.5" Y="346.0" GraphRef="cc086" RelX="0.0" RelY="-1.0" />
       <Point X="150.75" Y="263.0" GraphRef="b2d25" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idffa65a8b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="691.0" Y="232.0" GraphRef="f00" RelX="0.0" RelY="1.0" />
+      <Point X="665.0" Y="251.0" GraphRef="d062f" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="f49c2">
+    <Graphics ZOrder="32769" LineThickness="1.0">
+      <Point X="691.0" Y="232.0" GraphRef="f00" RelX="0.0" RelY="1.0" />
+      <Point X="750.0" Y="267.0" GraphRef="ee596" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
