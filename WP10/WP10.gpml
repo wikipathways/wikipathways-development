@@ -1,134 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="IL-9 Signaling Pathway" Data-Source="WikiPathways" Version="WP10_r41318" Author="A.Pandey | MaintBot | " Organism="Mus musculus">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="IL-9 Signaling Pathway" Data-Source="WikiPathways" Version="WP10_r43995" Author="A.Pandey | MaintBot | Khanspers | " Organism="Mus musculus">
   <Comment Source="GenMAPP notes">NetPath 20 - IL-9 Signaling Pathway&amp;amp;amp;#xD;
 NetPath (http://www.netpath.org) is a collaborative project between PandeyLab at Johns Hopkins University (http://pandeylab.igm.jhmi.edu) and the Institute of Bioinformatics (http://www.ibioinformatics.org).  If you use this pathway, you must cite the NetPath website until the pathway is published.</Comment>
   <Comment Source="GenMAPP remarks">http://www.netpath.org</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Comment Source="HomologyConvert">This pathway was inferred from Homo sapiens pathway [http://www.wikipathways.org/index.php?title=Pathway:WP22&amp;amp;amp;oldid=20723 WP22(r20723)] with a 100% conversion rate.</Comment>
+  <Comment Source="WikiPathways-description">test</Comment>
   <Graphics BoardWidth="980.8333333333333" BoardHeight="1343.423" />
   <DataNode TextLabel="Stat5b" GraphId="a28" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Stat5b" />
-    <Graphics CenterX="663.3333333333334" CenterY="453.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="663.3333333333334" CenterY="453.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="20851" />
   </DataNode>
   <DataNode TextLabel="Irs2" GraphId="ad1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Irs2" />
-    <Graphics CenterX="906.6666666666666" CenterY="326.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="906.6666666666666" CenterY="326.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="384783" />
   </DataNode>
   <DataNode TextLabel="Socs3" GraphId="ad6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Socs3" />
-    <Graphics CenterX="483.3333333333333" CenterY="370.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="483.3333333333333" CenterY="370.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="12702" />
   </DataNode>
   <DataNode TextLabel="Stat3" GraphId="add" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Stat3" />
-    <Graphics CenterX="740.0" CenterY="626.6666666666666" Width="50.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="740.0" CenterY="626.6666666666666" Width="50.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="20848" />
   </DataNode>
   <DataNode TextLabel="Map2k1" GraphId="af5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Map2k1" />
-    <Graphics CenterX="520.0" CenterY="450.0" Width="61.45185333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="520.0" CenterY="450.0" Width="61.45185333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="26395" />
   </DataNode>
   <DataNode TextLabel="Jak1" GraphId="ba8" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Jak1" />
-    <Graphics CenterX="693.3333333333334" CenterY="336.6666666666667" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="693.3333333333334" CenterY="336.6666666666667" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="16451" />
   </DataNode>
   <DataNode TextLabel="Il2rg" GraphId="bb7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Il2rg" />
-    <Graphics CenterX="673.3333333333334" CenterY="240.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="673.3333333333334" CenterY="240.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="16186" />
   </DataNode>
   <DataNode TextLabel="Tyk2" GraphId="c2b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Tyk2" />
-    <Graphics CenterX="600.0" CenterY="366.6666666666667" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="600.0" CenterY="366.6666666666667" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="54721" />
   </DataNode>
   <DataNode TextLabel="Stat3" GraphId="c31" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Stat3" />
-    <Graphics CenterX="740.0" CenterY="480.0" Width="50.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="740.0" CenterY="480.0" Width="50.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="20848" />
   </DataNode>
   <DataNode TextLabel="Mapk3" GraphId="c61" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Mapk3" />
-    <Graphics CenterX="556.6666666666666" CenterY="476.6666666666667" Width="54.86772666666666" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="556.6666666666666" CenterY="476.6666666666667" Width="54.86772666666666" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="26417" />
   </DataNode>
   <DataNode TextLabel="Akt1" GraphId="c81" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Akt1" />
-    <Graphics CenterX="930.0" CenterY="493.3333333333333" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="930.0" CenterY="493.3333333333333" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="11651" />
   </DataNode>
   <DataNode TextLabel="Stat1" GraphId="cad" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Stat1" />
-    <Graphics CenterX="680.0" CenterY="480.0" Width="50.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="680.0" CenterY="480.0" Width="50.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="20846" />
   </DataNode>
   <DataNode TextLabel="Irs1" GraphId="cae" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Irs1" />
-    <Graphics CenterX="813.3333333333334" CenterY="336.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="813.3333333333334" CenterY="336.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="16367" />
   </DataNode>
   <DataNode TextLabel="Pik3r1" GraphId="d8e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Pik3r1" />
-    <Graphics CenterX="846.6666666666666" CenterY="450.0" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="846.6666666666666" CenterY="450.0" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="18708" />
   </DataNode>
   <DataNode TextLabel="Kat5" GraphId="dea" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Kat5" />
-    <Graphics CenterX="446.6666666666667" CenterY="623.3333333333334" Width="58.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="446.6666666666667" CenterY="623.3333333333334" Width="58.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="81601" />
   </DataNode>
   <DataNode TextLabel="Il9r" GraphId="df0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Il9r" />
-    <Graphics CenterX="623.3333333333334" CenterY="240.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="623.3333333333334" CenterY="240.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="16199" />
   </DataNode>
   <DataNode TextLabel="Ptpn11" GraphId="e3f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Ptpn11" />
-    <Graphics CenterX="563.3333333333334" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="563.3333333333334" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="19247" />
   </DataNode>
   <DataNode TextLabel="Il9" GraphId="e43" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Il9" />
-    <Graphics CenterX="650.0" CenterY="100.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="650.0" CenterY="100.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="16198" />
   </DataNode>
   <DataNode TextLabel="Stat5a" GraphId="e52" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Stat5a" />
-    <Graphics CenterX="760.0" CenterY="453.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="760.0" CenterY="453.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="20850" />
   </DataNode>
   <DataNode TextLabel="Grb2" GraphId="e53" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Grb2" />
-    <Graphics CenterX="906.6666666666666" CenterY="406.6666666666667" Width="43.89418" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="906.6666666666666" CenterY="406.6666666666667" Width="43.89418" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="14784" />
   </DataNode>
   <DataNode TextLabel="Vcp" GraphId="f0b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Vcp" />
-    <Graphics CenterX="456.6666666666667" CenterY="310.0" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="456.6666666666667" CenterY="310.0" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="269523" />
   </DataNode>
   <DataNode TextLabel="Map2k2" GraphId="f23" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Map2k2" />
-    <Graphics CenterX="596.6666666666666" CenterY="450.0" Width="61.45185333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="596.6666666666666" CenterY="450.0" Width="61.45185333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="26396" />
   </DataNode>
   <DataNode TextLabel="Shc1" GraphId="f3b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Shc1" />
-    <Graphics CenterX="626.6666666666666" CenterY="336.6666666666667" Width="43.89418" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="626.6666666666666" CenterY="336.6666666666667" Width="43.89418" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="20416" />
   </DataNode>
   <DataNode TextLabel="Jak3" GraphId="fce" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Jak3" />
-    <Graphics CenterX="663.3333333333334" CenterY="366.6666666666667" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="663.3333333333334" CenterY="366.6666666666667" Width="41.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="16453" />
   </DataNode>
   <DataNode TextLabel="Mapk1" GraphId="ff2" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="Mapk1" />
-    <Graphics CenterX="490.0" CenterY="476.6666666666667" Width="54.86772666666666" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="490.0" CenterY="476.6666666666667" Width="54.86772666666666" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="26413" />
   </DataNode>
   <Interaction GraphId="a1770">
@@ -828,49 +829,49 @@ NetPath (http://www.netpath.org) is a collaborative project between PandeyLab at
     <Graphics CenterX="90.0" CenterY="1296.6666666666667" Width="25.333333333333332" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="ff00ff" />
   </Label>
   <Shape GraphId="a1f">
-    <Graphics CenterX="60.0" CenterY="503.3333333333333" Width="93.33333333333333" Height="26.666666666666668" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="60.0" CenterY="503.3333333333333" Width="93.33333333333333" Height="26.666666666666668" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="aa3">
-    <Graphics CenterX="706.6666666666666" CenterY="330.0" Width="20.0" Height="33.333333333333336" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Arc" Color="0000ff" Rotation="4.248742" />
+    <Graphics CenterX="706.6666666666666" CenterY="330.0" Width="20.0" Height="33.333333333333336" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Arc" Color="0000ff" Rotation="4.248742" />
   </Shape>
   <Shape GraphId="af1">
-    <Graphics CenterX="66.66666666666667" CenterY="570.0" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Color="ff00ff" Rotation="0.0" />
+    <Graphics CenterX="66.66666666666667" CenterY="570.0" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Brace" Color="ff00ff" Rotation="0.0" />
   </Shape>
   <Shape GraphId="b50">
-    <Graphics CenterX="63.333333333333336" CenterY="566.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Color="0000ff" Rotation="3.141592653589793" />
+    <Graphics CenterX="63.333333333333336" CenterY="566.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Brace" Color="0000ff" Rotation="3.141592653589793" />
   </Shape>
   <Shape GraphId="b9d">
-    <Graphics CenterX="210.0" CenterY="813.3333333333334" Width="398.78020000000004" Height="1000.1793333333334" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="210.0" CenterY="813.3333333333334" Width="398.78020000000004" Height="1000.1793333333334" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="bce">
-    <Graphics CenterX="63.333333333333336" CenterY="423.3333333333333" Width="53.74838666666667" Height="21.081853333333335" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="63.333333333333336" CenterY="423.3333333333333" Width="53.74838666666667" Height="21.081853333333335" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="c57">
-    <Graphics CenterX="93.33333333333333" CenterY="590.0" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="93.33333333333333" CenterY="590.0" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="c65">
-    <Graphics CenterX="63.333333333333336" CenterY="390.0" Width="53.74838666666667" Height="21.081853333333335" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="63.333333333333336" CenterY="390.0" Width="53.74838666666667" Height="21.081853333333335" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="d0a">
-    <Graphics CenterX="650.0" CenterY="373.3333333333333" Width="20.0" Height="33.333333333333336" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Arc" Color="0000ff" Rotation="0.7853982" />
+    <Graphics CenterX="650.0" CenterY="373.3333333333333" Width="20.0" Height="33.333333333333336" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Arc" Color="0000ff" Rotation="0.7853982" />
   </Shape>
   <Shape GraphId="d5b">
-    <Graphics CenterX="53.333333333333336" CenterY="686.6666666666666" Width="20.0" Height="37.71236" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Arc" Color="0000ff" Rotation="2.356194" />
+    <Graphics CenterX="53.333333333333336" CenterY="686.6666666666666" Width="20.0" Height="37.71236" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Arc" Color="0000ff" Rotation="2.356194" />
   </Shape>
   <Shape GraphId="e23">
-    <Graphics CenterX="40.0" CenterY="590.0" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="40.0" CenterY="590.0" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="ead">
-    <Graphics CenterX="66.66666666666667" CenterY="526.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Color="0000ff" Rotation="0.0" />
+    <Graphics CenterX="66.66666666666667" CenterY="526.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Brace" Color="0000ff" Rotation="0.0" />
   </Shape>
   <Shape GraphId="eb5">
-    <Graphics CenterX="36.666666666666664" CenterY="546.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="36.666666666666664" CenterY="546.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="ebc">
-    <Graphics CenterX="90.0" CenterY="546.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="90.0" CenterY="546.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="eea">
-    <Graphics CenterX="66.66666666666667" CenterY="610.0" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Color="ff00ff" Rotation="3.141592653589793" />
+    <Graphics CenterX="66.66666666666667" CenterY="610.0" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Brace" Color="ff00ff" Rotation="3.141592653589793" />
   </Shape>
   <InfoBox CenterX="8.333333333333334" CenterY="1.6666666666666667" />
   <Legend CenterX="0.0" CenterY="0.0" />
