@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r45320" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | Khanspers | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r48213" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | Khanspers | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="873.0" BoardHeight="549.0" />
   <DataNode TextLabel="Ca2+" GraphId="b2d25" Type="Metabolite">
     <Graphics CenterX="157.5" CenterY="250.0" Width="27.0" Height="26.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem" ID="271" />
+    <Xref Database="PubChem-compound" ID="271" />
   </DataNode>
   <DataNode TextLabel="OPG" GraphId="b5e" Type="Protein">
     <Graphics CenterX="750.0" CenterY="89.0" Width="45.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -36,7 +36,7 @@
   </DataNode>
   <DataNode TextLabel="Ca2+" GraphId="cc086" Type="Metabolite">
     <Graphics CenterX="114.5" CenterY="359.0" Width="27.0" Height="26.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem" ID="271" />
+    <Xref Database="PubChem-compound" ID="271" />
   </DataNode>
   <DataNode TextLabel="H+" GraphId="cf3" Type="Metabolite">
     <Graphics CenterX="284.5" CenterY="67.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
@@ -72,7 +72,7 @@
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="ed298" Type="Metabolite">
     <Graphics CenterX="256.5" CenterY="364.5" Width="23.0" Height="21.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem" ID="923" />
+    <Xref Database="HMDB" ID="HMDB00588" />
   </DataNode>
   <DataNode TextLabel="H+ ATPase" GraphId="edf" Type="Protein">
     <Graphics CenterX="568.0" CenterY="317.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -84,7 +84,7 @@
   </DataNode>
   <DataNode TextLabel="Na+" GraphId="ef6" Type="Metabolite">
     <Graphics CenterX="291.5" CenterY="255.5" Width="23.0" Height="21.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem" ID="923" />
+    <Xref Database="HMDB" ID="HMDB00588" />
   </DataNode>
   <DataNode TextLabel="RANK" GraphId="f00" Type="Protein">
     <Graphics CenterX="691.0" CenterY="222.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
