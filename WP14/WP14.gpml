@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sucrose Biosynthesis" Data-Source="WikiPathways" Version="WP14_r41912" Author="M.Braymer | MaintBot | AlexanderPico | Thomas | " Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sucrose Biosynthesis" Data-Source="WikiPathways" Version="WP14_r53537" Author="M.Braymer | MaintBot | AlexanderPico | Thomas | Egonw | " Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes"></Comment>
   <Comment Source="GenMAPP remarks">
 Based on http://pathway.yeastgenome.org/biocyc/
@@ -8,19 +8,19 @@ Based on http://pathway.yeastgenome.org/biocyc/
 Metabolic Process
   </Comment>
   <Graphics BoardWidth="877.5000000000001" BoardHeight="766.6666666666667" />
-  <DataNode TextLabel="phosphate" GraphId="a95">
+  <DataNode TextLabel="phosphate" GraphId="a95" Type="Metabolite">
     <Graphics CenterX="150.0" CenterY="130.0" Width="87.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="14265-44-2" />
   </DataNode>
-  <DataNode TextLabel="ADP" GraphId="af0">
+  <DataNode TextLabel="ADP" GraphId="af0" Type="Metabolite">
     <Graphics CenterX="120.0" CenterY="203.33333333333334" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="58-64-0" />
   </DataNode>
-  <DataNode TextLabel="ATP" GraphId="c43">
+  <DataNode TextLabel="ATP" GraphId="c43" Type="Metabolite">
     <Graphics CenterX="73.33333333333333" CenterY="233.33333333333334" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
-  <DataNode TextLabel="phosphate" GraphId="d01">
+  <DataNode TextLabel="phosphate" GraphId="d01" Type="Metabolite">
     <Graphics CenterX="483.3333333333333" CenterY="720.0" Width="87.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="14265-44-2" />
   </DataNode>
@@ -44,19 +44,19 @@ Metabolic Process
     <Graphics CenterX="480.0" CenterY="370.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="SGD" ID="PGM2" />
   </DataNode>
-  <DataNode TextLabel="fructose" GraphId="e17">
+  <DataNode TextLabel="fructose" GraphId="e17" Type="Metabolite">
     <Graphics CenterX="343.3333333333333" CenterY="590.0" Width="68.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="7776-48-9" />
   </DataNode>
-  <DataNode TextLabel="glucose-6-phosphate" GraphId="ea1">
+  <DataNode TextLabel="glucose-6-phosphate" GraphId="ea1" Type="Metabolite">
     <Graphics CenterX="453.3333333333333" CenterY="313.3333333333333" Width="167.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="59-56-3" />
   </DataNode>
-  <DataNode TextLabel="fructose-6-phosphate" GraphId="ec4">
+  <DataNode TextLabel="fructose-6-phosphate" GraphId="ec4" Type="Metabolite">
     <Graphics CenterX="493.3333333333333" CenterY="606.6666666666666" Width="169.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="643-13-0" />
   </DataNode>
-  <DataNode TextLabel="glucose-1-phosphate" GraphId="ecb">
+  <DataNode TextLabel="glucose-1-phosphate" GraphId="ecb" Type="Metabolite">
     <Graphics CenterX="453.3333333333333" CenterY="413.3333333333333" Width="167.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="59-56-3" />
   </DataNode>
@@ -65,11 +65,11 @@ Metabolic Process
     <Graphics CenterX="243.33333333333334" CenterY="113.33333333333333" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="SGD" ID="FBP1" />
   </DataNode>
-  <DataNode TextLabel="fructose" GraphId="f19">
+  <DataNode TextLabel="fructose" GraphId="f19" Type="Metabolite">
     <Graphics CenterX="56.666666666666664" CenterY="293.3333333333333" Width="68.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="7776-48-9" />
   </DataNode>
-  <DataNode TextLabel="sucrose" GraphId="f1f">
+  <DataNode TextLabel="sucrose" GraphId="f1f" Type="Metabolite">
     <Graphics CenterX="300.0" CenterY="683.3333333333334" Width="67.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="57-50-1" />
   </DataNode>
@@ -78,11 +78,11 @@ Metabolic Process
     <Graphics CenterX="380.0" CenterY="236.66666666666666" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="SGD" ID="PGI1" />
   </DataNode>
-  <DataNode TextLabel="pyrophosphate" GraphId="f65">
+  <DataNode TextLabel="pyrophosphate" GraphId="f65" Type="Metabolite">
     <Graphics CenterX="360.0" CenterY="493.3333333333333" Width="122.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="2466-09-3" />
   </DataNode>
-  <DataNode TextLabel="fructose-6-phosphate" GraphId="fa1">
+  <DataNode TextLabel="fructose-6-phosphate" GraphId="fa1" Type="Metabolite">
     <Graphics CenterX="220.0" CenterY="170.0" Width="169.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="643-13-0" />
   </DataNode>
