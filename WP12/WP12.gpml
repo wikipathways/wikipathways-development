@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r59108" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | Khanspers | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r67557" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | Khanspers | Ddigles | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="873.0" BoardHeight="549.0" />
   <DataNode TextLabel="Ca2+" GraphId="b2d25" Type="Metabolite">
@@ -234,6 +234,11 @@
   <Group GroupId="ebf27" Style="Complex" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway pertinent to development</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000650</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoclast</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000092</bp:ID>
