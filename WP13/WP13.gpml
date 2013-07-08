@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r67159" Author="Kdahlquist | MaintBot | D.Koren | Thomas | Christine Chichester | " Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r69672" Author="Kdahlquist | MaintBot | D.Koren | Thomas | Christine Chichester | " Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes">http://www.genomeknowledge.org/cgi-bin/eventbrowser?DB=gk_current&amp;ID=69306</Comment>
   <Comment Source="GenMAPP remarks">Based on www.genomeknowledge.org</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
@@ -12,252 +12,252 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <Graphics BoardWidth="2081.7937333333334" BoardHeight="1250.0" />
   <DataNode TextLabel="CDC46" GraphId="a21" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC46 | Component of the hexameric MCM complex..." />
-    <Graphics CenterX="1510.0" CenterY="300.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1510.0" CenterY="300.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="850980" />
   </DataNode>
   <DataNode TextLabel="RFC2" GraphId="a2d" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC2 | Subunit of heteropentameric Replication..." />
-    <Graphics CenterX="393.3333333333333" CenterY="976.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="393.3333333333333" CenterY="976.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="853531" />
   </DataNode>
   <DataNode TextLabel="PRI2" GraphId="a52" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRI2 | Subunit of DNA primase which is requir..." />
-    <Graphics CenterX="1080.0" CenterY="493.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1080.0" CenterY="493.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="853821" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="a5e">
-    <Graphics CenterX="433.3333333333333" CenterY="780.0" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="433.3333333333333" CenterY="780.0" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="RFA2" GraphId="a92" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFA2 | Subunit of heterotrimeric Replication F..." />
-    <Graphics CenterX="763.3333333333334" CenterY="470.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="763.3333333333334" CenterY="470.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="855404" />
   </DataNode>
   <DataNode TextLabel="POL12" GraphId="a97" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POL12 | B subunit of DNA polymerase alpha-prim..." />
-    <Graphics CenterX="1006.6666666666666" CenterY="473.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1006.6666666666666" CenterY="473.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852245" />
   </DataNode>
   <DataNode TextLabel="RFC5" GraphId="ad0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC5 | Subunit of heteropentameric Replication..." />
-    <Graphics CenterX="393.3333333333333" CenterY="996.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="393.3333333333333" CenterY="996.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852383" />
   </DataNode>
   <DataNode TextLabel="POL30" GraphId="b19" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POL30 | Proliferating cell nuclear antigen (PC..." />
-    <Graphics CenterX="846.6666666666666" CenterY="1140.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="846.6666666666666" CenterY="1140.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852385" />
   </DataNode>
   <DataNode TextLabel="MCM2" GraphId="b62" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCM2 | Protein involved in DNA replication; com..." />
-    <Graphics CenterX="1510.0" CenterY="240.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1510.0" CenterY="240.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852258" />
   </DataNode>
   <DataNode TextLabel="CDC47" GraphId="b68" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC47 | Component of the hexameric MCM complex..." />
-    <Graphics CenterX="1510.0" CenterY="340.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1510.0" CenterY="340.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852501" />
   </DataNode>
   <DataNode TextLabel="POLD3" GraphId="ba1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POLD3 | polymerase (DNA-directed) delta 3 acc..." />
-    <Graphics CenterX="1716.6666666666667" CenterY="1190.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1716.6666666666667" CenterY="1190.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="DPB2" GraphId="ba7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DPB2 | Second largest subunit of DNA polymeras..." />
-    <Graphics CenterX="1303.3333333333333" CenterY="496.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1303.3333333333333" CenterY="496.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="856305" />
   </DataNode>
   <DataNode TextLabel="ORC1L" GraphId="be5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC1L | origin recognition complex subunit 1-l..." />
-    <Graphics CenterX="633.3333333333334" CenterY="213.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="633.3333333333334" CenterY="213.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC3L" GraphId="c02" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC3L | origin recognition complex subunit 3-l..." />
-    <Graphics CenterX="56.666666666666664" CenterY="170.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="56.666666666666664" CenterY="170.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="CDC54" GraphId="c16" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC54 | Essential helicase component of heteroh..." />
-    <Graphics CenterX="1510.0" CenterY="280.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1510.0" CenterY="280.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="856130" />
   </DataNode>
   <DataNode TextLabel="POLD4" GraphId="c45" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POLD4 | polymerase (DNA-directed) delta 4" />
-    <Graphics CenterX="1716.6666666666667" CenterY="1210.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1716.6666666666667" CenterY="1210.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC4L" GraphId="c81" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC4L | origin recognition complex subunit 4-l..." />
-    <Graphics CenterX="433.3333333333333" CenterY="133.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="433.3333333333333" CenterY="133.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="RFC1" GraphId="c84" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC1 | Subunit of heteropentameric Replication..." />
-    <Graphics CenterX="393.3333333333333" CenterY="1036.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="393.3333333333333" CenterY="1036.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="854392" />
   </DataNode>
   <DataNode TextLabel="RFA1" GraphId="c8c" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFA1 | Subunit of heterotrimeric Replication F..." />
-    <Graphics CenterX="763.3333333333334" CenterY="450.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="763.3333333333334" CenterY="450.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="851266" />
   </DataNode>
   <DataNode TextLabel="dGTP" GraphId="cb3">
-    <Graphics CenterX="616.6666666666666" CenterY="643.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="616.6666666666666" CenterY="643.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="2564-35-4" />
   </DataNode>
   <DataNode TextLabel="ASK" GraphId="cbc" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASK | activator of S phase kinase" />
-    <Graphics CenterX="190.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="190.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="d08">
-    <Graphics CenterX="833.3333333333334" CenterY="1026.6666666666667" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="833.3333333333334" CenterY="1026.6666666666667" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="CDC6" GraphId="d10" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC6" />
-    <Graphics CenterX="1050.0" CenterY="220.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1050.0" CenterY="220.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="853244" />
   </DataNode>
   <DataNode TextLabel="CDC7" GraphId="d1b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC7 | DDK (Dbf4-dependent kinase) catalytic su..." />
-    <Graphics CenterX="190.0" CenterY="356.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="190.0" CenterY="356.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="851545" />
   </DataNode>
   <DataNode TextLabel="dATP" GraphId="d38">
-    <Graphics CenterX="616.6666666666666" CenterY="683.3333333333334" Width="47.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="616.6666666666666" CenterY="683.3333333333334" Width="47.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="RFC4" GraphId="d60" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC4 | Subunit of heteropentameric Replication..." />
-    <Graphics CenterX="393.3333333333333" CenterY="1016.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="393.3333333333333" CenterY="1016.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="854059" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="d8b">
-    <Graphics CenterX="233.33333333333334" CenterY="866.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="233.33333333333334" CenterY="866.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="RPA4" GraphId="da0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPA4 | replication protein A4 34kDa" />
-    <Graphics CenterX="763.3333333333334" CenterY="510.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="763.3333333333334" CenterY="510.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="RPL40A" GraphId="db4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPL40A | Fusion protein identical to Rpl40Bp..." />
-    <Graphics CenterX="1320.0" CenterY="303.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1320.0" CenterY="303.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="854658" />
   </DataNode>
   <DataNode TextLabel="MCM3" GraphId="dca" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCM3 | Protein involved in DNA replication; com..." />
-    <Graphics CenterX="1510.0" CenterY="260.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1510.0" CenterY="260.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="856680" />
   </DataNode>
   <DataNode TextLabel="MCM10" GraphId="de9" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCM10" />
-    <Graphics CenterX="1820.0" CenterY="136.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1820.0" CenterY="136.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="854656" />
   </DataNode>
   <DataNode TextLabel="PRI1" GraphId="e06" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRI1 | Subunit of DNA primase which is requir..." />
-    <Graphics CenterX="1080.0" CenterY="473.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1080.0" CenterY="473.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="854825" />
   </DataNode>
   <DataNode TextLabel="ORC5L" GraphId="e0b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC5L | origin recognition complex subunit 5-l..." />
-    <Graphics CenterX="266.6666666666667" CenterY="196.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="266.6666666666667" CenterY="196.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="e0e">
-    <Graphics CenterX="496.6666666666667" CenterY="780.0" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="496.6666666666667" CenterY="780.0" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="58-64-0" />
   </DataNode>
   <DataNode TextLabel="UBI4" GraphId="e23" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="UBI4 | Ubiquitin becomes conjugated to protei..." />
-    <Graphics CenterX="1320.0" CenterY="323.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1320.0" CenterY="323.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="850620" />
   </DataNode>
   <DataNode TextLabel="POL2" GraphId="e34" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POL2 | Catalytic subunit of DNA polymerase eps..." />
-    <Graphics CenterX="1303.3333333333333" CenterY="516.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1303.3333333333333" CenterY="516.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="855459" />
   </DataNode>
   <DataNode TextLabel="HYS2" GraphId="e35" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HYS2 | DNA polymerase III (delta) subunit ess..." />
-    <Graphics CenterX="1716.6666666666667" CenterY="1170.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1716.6666666666667" CenterY="1170.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="853462" />
   </DataNode>
   <DataNode TextLabel="CDC45" GraphId="e41" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC45 | DNA replication initiation factor; rec..." />
-    <Graphics CenterX="606.6666666666666" CenterY="450.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="606.6666666666666" CenterY="450.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="850793" />
   </DataNode>
   <DataNode TextLabel="CDK2" GraphId="e6e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDK2 | cyclin-dependent kinase 2" />
-    <Graphics CenterX="190.0" CenterY="316.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="190.0" CenterY="316.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC6L" GraphId="ee3" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC6L | origin recognition complex subunit 6 h..." />
-    <Graphics CenterX="846.6666666666666" CenterY="140.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="846.6666666666666" CenterY="140.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="RPA3" GraphId="ef7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPA3 | replication protein A3 14kDa" />
-    <Graphics CenterX="763.3333333333334" CenterY="490.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="763.3333333333334" CenterY="490.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="POL1" GraphId="eff" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POL1 | Catalytic subunit of the DNA polymerase..." />
-    <Graphics CenterX="1006.6666666666666" CenterY="493.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1006.6666666666666" CenterY="493.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="855621" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="f08">
-    <Graphics CenterX="436.6666666666667" CenterY="696.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="436.6666666666667" CenterY="696.6666666666666" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1927-31-7" />
   </DataNode>
   <DataNode TextLabel="RFC3" GraphId="f1f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC3 | Subunit of heteropentameric Replication..." />
-    <Graphics CenterX="393.3333333333333" CenterY="956.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="393.3333333333333" CenterY="956.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="855426" />
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="f23">
-    <Graphics CenterX="376.6666666666667" CenterY="776.6666666666666" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="376.6666666666667" CenterY="776.6666666666666" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="58-64-0" />
   </DataNode>
   <DataNode TextLabel="GMNN" GraphId="f33" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GMNN | geminin DNA replication inhibitor" />
-    <Graphics CenterX="1230.0" CenterY="266.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1230.0" CenterY="266.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="CDC2" GraphId="f3b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC2 | Catalytic subunit of DNA polymerase del..." />
-    <Graphics CenterX="1716.6666666666667" CenterY="1150.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1716.6666666666667" CenterY="1150.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="851456" />
   </DataNode>
   <DataNode TextLabel="MCM6" GraphId="f40" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCM6 | Protein involved in DNA replication; com..." />
-    <Graphics CenterX="1510.0" CenterY="320.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1510.0" CenterY="320.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852673" />
   </DataNode>
   <DataNode TextLabel="GTP" GraphId="f60">
-    <Graphics CenterX="436.6666666666667" CenterY="656.6666666666666" Width="38.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="436.6666666666667" CenterY="656.6666666666666" Width="38.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="2564-35-4" />
   </DataNode>
   <DataNode TextLabel="CDT1" GraphId="f61" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDT1 | DNA replication factor" />
-    <Graphics CenterX="1230.0" CenterY="286.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1230.0" CenterY="286.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC2" GraphId="fb4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC2 | Subunit of the origin recognition compl..." />
-    <Graphics CenterX="120.0" CenterY="130.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="120.0" CenterY="130.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="852352" />
   </DataNode>
   <DataNode TextLabel="dCTP" GraphId="fec">
-    <Graphics CenterX="616.6666666666666" CenterY="623.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="616.6666666666666" CenterY="623.3333333333334" Width="48.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="2056-98-6" />
   </DataNode>
   <Interaction GraphId="id162b59d1">
@@ -943,53 +943,58 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
     <Graphics CenterX="1093.3333333333333" CenterY="1093.3333333333333" Width="359.3333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Shape GraphId="a16">
-    <Graphics CenterX="1396.6666666666667" CenterY="176.66666666666666" Width="120.0" Height="106.66666666666667" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="1396.6666666666667" CenterY="176.66666666666666" Width="120.0" Height="106.66666666666667" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="a3b">
-    <Graphics CenterX="360.0" CenterY="163.33333333333334" Width="84.3274" Height="86.92269333333334" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.2474029" />
+    <Graphics CenterX="360.0" CenterY="163.33333333333334" Width="84.3274" Height="86.92269333333334" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.2474029" />
   </Shape>
   <Shape GraphId="a86">
-    <Graphics CenterX="750.0" CenterY="173.33333333333334" Width="120.0" Height="106.66666666666667" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="750.0" CenterY="173.33333333333334" Width="120.0" Height="106.66666666666667" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="b02">
-    <Graphics CenterX="1280.0" CenterY="250.0" Width="60.0" Height="30.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Arc" Rotation="3.141593" />
+    <Graphics CenterX="1280.0" CenterY="250.0" Width="60.0" Height="30.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Arc" Rotation="3.141593" />
   </Shape>
   <Shape GraphId="b24">
-    <Graphics CenterX="1083.3333333333333" CenterY="516.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="3.141592653589793" />
+    <Graphics CenterX="1083.3333333333333" CenterY="516.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Brace" Rotation="3.141592653589793" />
   </Shape>
   <Shape GraphId="ba2">
-    <Graphics CenterX="656.6666666666666" CenterY="1090.0" Width="386.7241333333333" Height="40.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="656.6666666666666" CenterY="1090.0" Width="386.7241333333333" Height="40.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="c6a">
-    <Graphics CenterX="1003.3333333333334" CenterY="516.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="3.141592653589793" />
+    <Graphics CenterX="1003.3333333333334" CenterY="516.6666666666666" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Brace" Rotation="3.141592653589793" />
   </Shape>
   <Shape GraphId="d1c">
-    <Graphics CenterX="1536.6666666666667" CenterY="1093.3333333333333" Width="346.73080000000004" Height="73.63574666666666" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="1536.6666666666667" CenterY="1093.3333333333333" Width="346.73080000000004" Height="73.63574666666666" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="d2d">
-    <Graphics CenterX="1173.3333333333333" CenterY="180.0" Width="120.01197333333333" Height="93.33333333333333" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="1173.3333333333333" CenterY="180.0" Width="120.01197333333333" Height="93.33333333333333" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="d91">
-    <Graphics CenterX="196.66666666666666" CenterY="156.66666666666666" Width="63.24554666666667" Height="60.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.2474029" />
+    <Graphics CenterX="196.66666666666666" CenterY="156.66666666666666" Width="63.24554666666667" Height="60.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.2474029" />
   </Shape>
   <Shape GraphId="d99">
-    <Graphics CenterX="1320.0" CenterY="300.0" Width="84.3274" Height="86.92269333333334" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.2474029" />
+    <Graphics CenterX="1320.0" CenterY="300.0" Width="84.3274" Height="86.92269333333334" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.2474029" />
   </Shape>
   <Shape GraphId="dbb">
-    <Graphics CenterX="1706.6666666666667" CenterY="213.33333333333334" Width="196.92079999999999" Height="183.36360000000002" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="1706.6666666666667" CenterY="213.33333333333334" Width="196.92079999999999" Height="183.36360000000002" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="e9b">
-    <Graphics CenterX="556.6666666666666" CenterY="170.0" Width="113.52924" Height="100.22197333333334" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="556.6666666666666" CenterY="170.0" Width="113.52924" Height="100.22197333333334" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="ea7">
-    <Graphics CenterX="1100.0" CenterY="1093.3333333333333" Width="406.6666666666667" Height="80.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="1100.0" CenterY="1093.3333333333333" Width="406.6666666666667" Height="80.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <Shape GraphId="f77">
-    <Graphics CenterX="1953.3333333333333" CenterY="216.66666666666666" Width="196.92079999999999" Height="183.36360000000002" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="1953.3333333333333" CenterY="216.66666666666666" Width="196.92079999999999" Height="183.36360000000002" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
   <InfoBox CenterX="141.66666666666666" CenterY="11.666666666666666" />
   <Legend CenterX="1736.6666666666667" CenterY="470.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DNA replication pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000098</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a0d">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1536007</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -998,15 +1003,6 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1992</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marahrens Y</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stillman B</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a6d">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12045100</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DNA replication in eukaryotic cells.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Biochem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bell SP</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dutta A</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3d">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10966477</bp:ID>
@@ -1017,11 +1013,15 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kelly TJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown GW</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DNA replication pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000098</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a6d">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12045100</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DNA replication in eukaryotic cells.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Biochem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bell SP</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dutta A</bp:AUTHORS>
+    </bp:PublicationXref>
   </Biopax>
 </Pathway>
 
