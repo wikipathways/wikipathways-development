@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r69761" Author="Kdahlquist | MaintBot | D.Koren | Thomas | Christine Chichester | Egonw | " Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="DNA Replication" Data-Source="WikiPathways" Version="WP13_r71354" Author="Kdahlquist | MaintBot | D.Koren | Thomas | Christine Chichester | Egonw | " Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes">http://www.genomeknowledge.org/cgi-bin/eventbrowser?DB=gk_current&amp;ID=69306</Comment>
   <Comment Source="GenMAPP remarks">Based on www.genomeknowledge.org</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
@@ -62,7 +62,7 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="POLD3" GraphId="ba1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POLD3 | polymerase (DNA-directed) delta 3 acc..." />
     <Graphics CenterX="1716.6666666666667" CenterY="1190.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="DPB2" GraphId="ba7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DPB2 | Second largest subunit of DNA polymeras..." />
@@ -72,12 +72,12 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="ORC1L" GraphId="be5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC1L | origin recognition complex subunit 1-l..." />
     <Graphics CenterX="633.3333333333334" CenterY="213.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC3L" GraphId="c02" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC3L | origin recognition complex subunit 3-l..." />
     <Graphics CenterX="56.666666666666664" CenterY="170.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="CDC54" GraphId="c16" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC54 | Essential helicase component of heteroh..." />
@@ -87,12 +87,12 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="POLD4" GraphId="c45" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POLD4 | polymerase (DNA-directed) delta 4" />
     <Graphics CenterX="1716.6666666666667" CenterY="1210.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC4L" GraphId="c81" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC4L | origin recognition complex subunit 4-l..." />
     <Graphics CenterX="433.3333333333333" CenterY="133.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="RFC1" GraphId="c84" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RFC1 | Subunit of heteropentameric Replication..." />
@@ -111,7 +111,7 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="ASK" GraphId="cbc" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASK | activator of S phase kinase" />
     <Graphics CenterX="190.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="ATP" GraphId="d08" Type="Metabolite">
     <Graphics CenterX="833.3333333333334" CenterY="1026.6666666666667" Width="37.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -143,7 +143,7 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="RPA4" GraphId="da0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPA4 | replication protein A4 34kDa" />
     <Graphics CenterX="763.3333333333334" CenterY="510.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="RPL40A" GraphId="db4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPL40A | Fusion protein identical to Rpl40Bp..." />
@@ -168,7 +168,7 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="ORC5L" GraphId="e0b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC5L | origin recognition complex subunit 5-l..." />
     <Graphics CenterX="266.6666666666667" CenterY="196.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="ADP" GraphId="e0e" Type="Metabolite">
     <Graphics CenterX="496.6666666666667" CenterY="780.0" Width="39.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -197,17 +197,17 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="CDK2" GraphId="e6e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDK2 | cyclin-dependent kinase 2" />
     <Graphics CenterX="190.0" CenterY="316.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC6L" GraphId="ee3" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC6L | origin recognition complex subunit 6 h..." />
     <Graphics CenterX="846.6666666666666" CenterY="140.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="RPA3" GraphId="ef7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RPA3 | replication protein A3 14kDa" />
     <Graphics CenterX="763.3333333333334" CenterY="490.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="POL1" GraphId="eff" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="POL1 | Catalytic subunit of the DNA polymerase..." />
@@ -230,7 +230,7 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="GMNN" GraphId="f33" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GMNN | geminin DNA replication inhibitor" />
     <Graphics CenterX="1230.0" CenterY="266.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="CDC2" GraphId="f3b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC2 | Catalytic subunit of DNA polymerase del..." />
@@ -249,7 +249,7 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
   <DataNode TextLabel="CDT1" GraphId="f61" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDT1 | DNA replication factor" />
     <Graphics CenterX="1230.0" CenterY="286.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="ORC2" GraphId="fb4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ORC2 | Subunit of the origin recognition compl..." />
@@ -999,15 +999,6 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marahrens Y</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stillman B</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3d">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10966477</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of chromosome replication.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Biochem</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kelly TJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown GW</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DNA replication pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000098</bp:ID>
@@ -1021,6 +1012,15 @@ Source: [wikipedia:DNA_replication|Wikipedia]</Comment>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bell SP</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dutta A</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f3d">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10966477</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of chromosome replication.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Biochem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kelly TJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown GW</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
