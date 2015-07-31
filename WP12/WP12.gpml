@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r78593" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | Khanspers | Ddigles | Egonw | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Osteoclast Signaling" Data-Source="WikiPathways" Version="WP12_r81176" Author="Ehsiao | AlexanderPico | MaintBot | Samuel Sklar | Khanspers | Ddigles | Egonw | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
   <Graphics BoardWidth="873.0" BoardHeight="549.0" />
   <DataNode TextLabel="Ca2+" GraphId="b2d25" Type="Metabolite">
@@ -12,7 +12,7 @@
   </DataNode>
   <DataNode TextLabel="H+" GraphId="b96e7" Type="Metabolite">
     <Graphics CenterX="249.5" CenterY="254.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="5362549" />
+    <Xref Database="PubChem-compound" ID="1038" />
   </DataNode>
   <DataNode TextLabel="PDGFB" GraphId="bc3" Type="Protein" GroupRef="ebf27">
     <Graphics CenterX="604.0" CenterY="107.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -24,7 +24,7 @@
   </DataNode>
   <DataNode TextLabel="H+" GraphId="c3b03" Type="Metabolite">
     <Graphics CenterX="564.5" CenterY="365.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="5362549" />
+    <Xref Database="PubChem-compound" ID="1038" />
   </DataNode>
   <DataNode TextLabel="TRPV" GraphId="c3d" Type="Protein">
     <Graphics CenterX="127.5" CenterY="317.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -40,11 +40,11 @@
   </DataNode>
   <DataNode TextLabel="H+" GraphId="cf3" Type="Metabolite">
     <Graphics CenterX="284.5" CenterY="67.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="5362549" />
+    <Xref Database="PubChem-compound" ID="1038" />
   </DataNode>
   <DataNode TextLabel="H+" GraphId="d02b2" Type="Metabolite">
     <Graphics CenterX="208.5" CenterY="367.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="5362549" />
+    <Xref Database="PubChem-compound" ID="1038" />
   </DataNode>
   <DataNode TextLabel="AIMP2" GraphId="d062f" Type="GeneProduct">
     <Graphics CenterX="665.0" CenterY="261.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -64,7 +64,7 @@
   </DataNode>
   <DataNode TextLabel="H+" GraphId="e918b" Type="Metabolite">
     <Graphics CenterX="564.5" CenterY="265.0" Width="23.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" ShapeType="Oval" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="5362549" />
+    <Xref Database="PubChem-compound" ID="1038" />
   </DataNode>
   <DataNode TextLabel="Na+/H+ transporter" GraphId="ea3" Type="Protein">
     <Graphics CenterX="246.5" CenterY="318.0" Width="117.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -235,14 +235,14 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoclast</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000092</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway pertinent to development</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000650</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoclast</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CL:0000092</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Type</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway</bp:TERM>
