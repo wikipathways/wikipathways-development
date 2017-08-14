@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sucrose Biosynthesis" Data-Source="WikiPathways" Version="WP14_r93724" Author="M.Braymer | MaintBot | AlexanderPico | Thomas | Egonw | Ddigles | DeSl | " Organism="Saccharomyces cerevisiae">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Sucrose Biosynthesis" Data-Source="WikiPathways" Version="WP14_r93725" Author="M.Braymer | MaintBot | AlexanderPico | Thomas | Egonw | Ddigles | DeSl | " Organism="Saccharomyces cerevisiae">
   <Comment Source="GenMAPP notes"></Comment>
   <Comment Source="GenMAPP remarks">
 Based on http://pathway.yeastgenome.org/biocyc/
@@ -90,7 +90,7 @@ Metabolic Process
   </DataNode>
   <DataNode TextLabel="glucose-1-phosphate" GraphId="ecb" Type="Metabolite">
     <Graphics CenterX="453.3333333333333" CenterY="413.3333333333333" Width="167.33333333333334" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="59-56-3" />
+    <Xref Database="ChEBI" ID="CHEBI:16077" />
   </DataNode>
   <DataNode TextLabel="FBP1" GraphId="ee8" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FBP1" />
